@@ -1,0 +1,2391 @@
+
+
+>>>>>>>>> Begin of Output {0} <<<<<<<<<
+Vl602                          up             up       
+Vl604                          up             up       Internet Carrier
+Vl613                          up             up       MGT_WIMAX
+Vl617                          up             up       
+Vl700                          up             up       95025705 EXCELLENT  LOGISTICS LTD-KASARANI Internet
+Vl717                          admin down     down     95019555 Radiant Group Of Hospitals-Kasarani 
+Vl740                          up             up       95013954-STAREHE_GIRLS_CENTRE
+Vl741                          up             up       95009379_Peter_Mbugua_Njuguna
+Vl744                          admin down     down     DHL Supply Chain-Kasarani
+Vl752                          up             up       95019750-MUKARA PAUL KINUTHIA
+Vl755                          up             up       Francis Waruingi Ngure
+Fa0/3                          up             up       95016786-Naivas Githurai
+Fa0/4                          up             up       95095813-EQUITY BANK-KASARANI
+Fa0/6                          up             up       WIMAX 16e PORT SEC_1
+Fa0/7                          up             up       WIMAX 16e PORT SEC_2
+Fa0/8                          up             up       WIMAX 16e PORT SEC_3
+Fa0/12                         up             up       95098861_Naivas Kasarani
+Fa0/13                         up             up       EXCELLENT LOGISTICS
+Fa0/17                         up             up       Connection to ICIPE
+Fa0/19                         up             up       QNQ_IPRAN_VLANS
+Fa0/20                         up             up       QNQ_TUNNEL
+Fa0/24                         up             up       IPRAN_Connection
+Lo0                            up             up       
+
+>>>>>>>>> End of Output {0} <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output 12315_NW_NM1290-Amani_Road_SWITCH <<<<<<<<<
+Vl602                          up             up       
+Vl604                          up             up       Internet Carrier
+Vl613                          up             up       MGT_WIMAX
+Vl617                          up             up       
+Vl700                          up             up       95025705 EXCELLENT  LOGISTICS LTD-KASARANI Internet
+Vl717                          admin down     down     95019555 Radiant Group Of Hospitals-Kasarani 
+Vl740                          up             up       95013954-STAREHE_GIRLS_CENTRE
+Vl741                          up             up       95009379_Peter_Mbugua_Njuguna
+Vl744                          admin down     down     DHL Supply Chain-Kasarani
+Vl752                          up             up       95019750-MUKARA PAUL KINUTHIA
+Vl755                          up             up       Francis Waruingi Ngure
+Fa0/3                          up             up       95016786-Naivas Githurai
+Fa0/4                          up             up       95095813-EQUITY BANK-KASARANI
+Fa0/6                          up             up       WIMAX 16e PORT SEC_1
+Fa0/7                          up             up       WIMAX 16e PORT SEC_2
+Fa0/8                          up             up       WIMAX 16e PORT SEC_3
+Fa0/12                         up             up       95098861_Naivas Kasarani
+Fa0/13                         up             up       EXCELLENT LOGISTICS
+Fa0/17                         up             up       Connection to ICIPE
+Fa0/19                         up             up       QNQ_IPRAN_VLANS
+Fa0/20                         up             up       QNQ_TUNNEL
+Fa0/24                         up             up       IPRAN_Connection
+Lo0                            up             up       
+
+>>>>>>>>> End of Output 12315_NW_NM1290-Amani_Road_SWITCH <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output AA Kenya_Switch_NRB <<<<<<<<<
+Vl601                          up             up       NEW INTERNET CARRIER VLAN
+Vl613                          up             up       NEW_MGT_WIMAX_AVP
+Vl617                          up             up       
+Fa0/6                          up             up       WIMAX_SECTOR_1
+Fa0/7                          up             up       WIMAX_SECTOR_2
+Fa0/8                          up             up       WIMAX_SECTOR_3
+Fa0/19                         up             up       QNQ_IPRAN_VLANS
+Fa0/20                         up             up       QNQ_TUNNEL
+Fa0/22                         up             up       CONNECTION_IPRAN_ATN
+
+>>>>>>>>> End of Output AA Kenya_Switch_NRB <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Athi River South Switch_EAST <<<<<<<<<
+Vl358                          up             up       
+Vl601                          up             up       
+Vl606                          up             up       
+Vl613                          up             up       
+Vl617                          up             up       
+Vl700                          up             up       95035387_TWYFORD_CERAMICS 
+Vl716                          up             up       95013240 MTN_PETROCITY1
+Vl719                          up             up       95015125 Callkey Networks - Naisula School Kajiado Bespoke
+Vl720                          up             up       95013055_PJ-DAVES_FLORA(ISINYA)-Internet
+Vl722                          up             up       MAGADI KAJIADO
+Vl726                          up             up       95019858-KAJIADO_HILL_ACADEMY
+Vl730                          up             up       95019878-KAJIADO HILL ACADEMY-GIRLS
+Vl732                          up             up       95021626_SERIAN_COMMUNICATION
+Vl735                          up             up       95036916-KAMAU-WAITHAKA
+Vl736                          up             up       95044452-ASTRAL INDUSTRIES LIMITED
+Vl764                          up             up       95022644-Naisula Holdings
+Vl783                          up             up       95025471-SGS KENYA LTD-ISINYA
+Vl786                          up             up       95047285-KAJIADO COUNTY GOVERNMENT-KAJIADO CENTRAL
+Vl790                          up             up       95044228-IQRAN_INVESTMENTS
+Vl791                          up             up       95046336_Kentrade_Namanga secondary
+Vl792                          up             up       95046335-KENTRADE-NAMANGA PRIMARY
+Vl836                          up             up       95045941-SISI_COMMUNICATIONS-LE_RUAT_LOG_RESORT
+Vl954                          up             up       95039148-MASAI TECHNICAL TRAINING
+Vl1163                         up             up       95046913-KAJIADO COUNTY GOVERNMENT-ISINYA-MICROWAVE
+Vl1170                         up             up       95046348-ISINYA FEEDS LTD-MICROWAVE
+Vl1171                         up             up       95042184-SAAB ROYALE HOTEL 
+Vl2093                         up             up       95038810-WELLS FARGO LTD-ATHIRIVER
+Vl2448                         up             up       
+Vl3130                         up             up       
+Vl3153                         up             up       
+Vl3162                         up             up       
+Fa0/2                          up             up       95038810-WELLS FARGO LTD ATHI RIVER
+Fa0/16                         up             up       Radio Africa Machakos Connection form Ericsson
+Fa0/17                         up             up       NGM to Kajiado/Namanga route
+Fa0/20                         up             up       95041481 : STONY ATHI SITE-MICROWAVE SIP
+Gi0/1                          up             up       ATH_EBT_ASR903-PE01
+Lo0                            up             up       
+
+>>>>>>>>> End of Output Athi River South Switch_EAST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Athi River Switch_EAST <<<<<<<<<
+Vl601                          up             up       
+Vl613                          up             up       MGT_WIMAX
+Vl718                          up             up       95099122- MAVOKO_WATER AND SEWERAGE
+Vl729                          admin down     down     Aviation cargo Support
+Vl789                          up             up       95026621-SAJ_CERAMICS
+Fa0/4                          up             up       WIMAX 16e PORT SEC_1
+Fa0/5                          up             up       WIMAX 16e PORT SEC_2
+Fa0/6                          up             up       WIMAX 16e PORT SEC_3
+Fa0/7                          up             up       SAJ_CERAMICS
+Fa0/10                         up             up       95099122 MAVOKO WATER & SEWERAGE CO.
+Fa0/19                         up             up       VLAN_TRUNKS
+Fa0/20                         up             up       QNQ_TUNNEL
+Fa0/21                         up             up       CONNECTION_TO_THE_ATN
+
+>>>>>>>>> End of Output Athi River Switch_EAST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output AVP Switch_NRB <<<<<<<<<
+Vl601                          up             up       NEW INTERNET CARRIER VLAN
+Vl613                          up             up       NEW_MGT_WIMAX
+Vl713                          up             up       95011629_KQ-LOUNGES
+Vl3230                         up             up       NBK JKIA
+Fa0/4                          up             up       Microwave Connections(Naivas HQ,Simbacolt HQ)
+Fa0/5                          up             up       CHASE BANK KENYA LTD TAJ-MALL
+Fa0/6                          up             up       JKIA WiFi
+Fa0/14                         up             up       95019504-JTL KPC EMBAKASI MICROWAVE
+Fa0/15                         up             up       95018154-KENOL KOBIL-NRS PRIMARY
+Gi0/2                          up             up       ==TO AVP_EBT_ASR1k6_gi_0/0/2
+
+>>>>>>>>> End of Output AVP Switch_NRB <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Awendo Switch_WEST <<<<<<<<<
+Vl100                          up             down     
+Vl612                          up             up       MGT_BESPOKE
+Vl613                          up             up       MGT_WIMAX
+Vl2000                         up             down     
+Vl3705                         up             up       
+Fa0/5                          up             up       CERAGON_FA2500
+Fa0/9                          up             up       95028577-SONY-SUGAR-HQ
+Fa0/19                         up             up       QNQ_IPRAN_VLANS
+Fa0/20                         up             up       QNQ_TUNNEL
+Fa0/21                         up             up       CONNECTION_IPRAN_ATN
+
+>>>>>>>>> End of Output Awendo Switch_WEST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output AWENDO.safaricom.net <<<<<<<<<
+Vl100                          up             down     
+Vl612                          up             up       MGT_BESPOKE
+Vl613                          up             up       MGT_WIMAX
+Vl2000                         up             down     
+Vl3705                         up             up       
+Fa0/5                          up             up       CERAGON_FA2500
+Fa0/9                          up             up       95028577-SONY-SUGAR-HQ
+Fa0/19                         up             up       QNQ_IPRAN_VLANS
+Fa0/20                         up             up       QNQ_TUNNEL
+Fa0/21                         up             up       CONNECTION_IPRAN_ATN
+
+>>>>>>>>> End of Output AWENDO.safaricom.net <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Barclays Plaza Switch II_NRB <<<<<<<<<
+Vl100                          up             down     
+Vl102                          up             down     
+Vl107                          up             up       
+Vl149                          up             down     
+Vl150                          up             down     
+Vl151                          up             down     
+Vl602                          up             up       INTERNET_ASR9k
+Vl613                          up             up       MANAGEMENT                       
+Vl716                          up             down     P2P to PO                     
+Vl999                          up             down     
+Fa0/22                         up             up       Vlan Stripper
+Fa0/23                         up             up       QnQ
+Fa0/24                         up             up       Connection to S3300 Eth0/0/24
+
+>>>>>>>>> End of Output Barclays Plaza Switch II_NRB <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Barclays Plaza UC Switch_NRB <<<<<<<<<
+Vl1                            up             down     
+Vl602                          up             up       INTERNET_CARRIER_MGT
+Vl611                          up             down     
+Vl613                          up             up       MGT_WIMAX
+Vl713                          up             down     95016144-WIN_PEN_LIMITED-UC
+Fa0/21                         up             up       QNQ_IPRAN_VLANS
+Fa0/22                         up             up       QNQ_TUNNEL
+Fa0/23                         up             up       ATN_910 GE0/2/25
+
+>>>>>>>>> End of Output Barclays Plaza UC Switch_NRB <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Bella Plaza Switch_EAST <<<<<<<<<
+Vl602                          up             up       
+Vl604                          up             down     
+Vl613                          up             up       MGT_WIMAX
+Vl617                          up             up       ASN_GATEWAY_MNGT
+Vl700                          up             down     95022647-WATU  CREDIT LTD
+Vl718                          up             up       95032531-IOM MOMBASA-MICROWAVE 
+Vl1069                         up             down     
+Vl1080                         up             down     MGT FIBER
+Vl2456                         up             up       
+Fa0/2                          up             up       WIMAX 16e PORT SEC_1
+Fa0/3                          up             up       WIMAX 16e PORT SEC_2
+Fa0/4                          up             up       WIMAX 16e PORT SEC_3
+Fa0/5                          up             up       AAR NYALI
+Fa0/11                         up             up       95040528_PRIME BANK LTD. NYALI PALM BLEEZE
+Fa0/16                         up             up       95032531-IOM MOMBASA
+Fa0/18                         up             up       QNQ_IPRAN_VLANS
+Fa0/19                         up             up       QNQ_TUNNEL
+Fa0/21                         up             up       CONNECTION_IPRAN_ATN
+Lo0                            up             up       
+
+>>>>>>>>> End of Output Bella Plaza Switch_EAST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Berguret Switch_EAST <<<<<<<<<
+Vl100                          up             down     BTS_Remote_MGT
+Vl601                          up             up       INTERNET_CARRIER
+Vl612                          up             up       SWITCH MNGMT VLAN 612
+Vl613                          up             up       WIMAX_MGT
+Vl617                          up             up       
+Fa0/2                          up             up       WIMAX 16e PORT SEC_1
+Fa0/22                         up             up       NGM to Nanyuki equator
+Lo0                            up             up       
+
+>>>>>>>>> End of Output Berguret Switch_EAST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Bomet Switch_West <<<<<<<<<
+Vl1                            up             down     
+Vl102                          up             down     
+Vl394                          up             up       
+Vl602                          up             up       NEW_INTERNET_CARRIER
+Vl612                          up             up       MGT_BESPOKE
+Vl613                          up             up       MGT_WIMAX
+Vl702                          up             up       95022957-HAND_IN_HAND_EASTERN_AFRICA-BOMET
+Vl703                          up             up       95028529-BENROCK  TECHNOLOGIES   LIMITED
+Vl725                          up             down     
+Fa0/7                          up             up       CERAGON_FA2500
+Fa0/9                          up             up       FREDRICK NYENJERI BOMET
+Fa0/11                         up             up       KENET BOMET UNIVERSITY COLLEGE
+Fa0/14                         up             up       Longisa,Tegat,Merigi,Bandaptai,Korindon,Kabanson_Traffic_Via_MW
+Fa0/19                         up             up       QNQ_IPRAN_VLANS
+Fa0/20                         up             up       QNQ_Tunnel
+Fa0/24                         up             up       CONNECTION_IPRAN_ATN
+Lo0                            up             up       
+
+>>>>>>>>> End of Output Bomet Switch_West <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Bondo TKL Switch_WEST <<<<<<<<<
+Vl364                          up             up       
+Vl601                          up             up       internet
+Vl604                          up             up       NEW_Internet
+Vl612                          up             up       
+Vl613                          up             up       
+Vl711                          up             up       Plan international  Bondo
+Vl712                          up             up       Bondo IT Centre
+Vl720                          up             up       Ochieng Kenneth
+Vl725                          up             up       95013256_Safaricom_Retail_Bondo 
+Vl729                          up             up       95019019-Peter_Odhiambo_Marega
+Vl741                          up             up       95028453_KCCB_BONDO
+Vl788                          up             up       95044418-BONDO COOPERATIVE SAVINGS & CREDIT SOCIETY LIMITED
+Fa0/4                          up             up       95026955-MTN_IMPACT_RESEARCH&DEV
+Fa0/12                         up             up       WN0070_BONDO TKL CERAGON
+Fa0/13                         up             up       WIMAX 16e PORT SEC_1
+Fa0/14                         up             up       WIMAX 16e PORT SEC_2
+Gi0/1                          up             up       KENET JARAMOGI UNIVERSITY
+Gi0/2                          up             up       NGM to Ngiya_Hub_S3300_Switch_Port Ethernet0/0/21(172.17.151.16>
+Lo0                            up             up       
+
+>>>>>>>>> End of Output Bondo TKL Switch_WEST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Bruce House Micro Switch_NAIROBI WEST <<<<<<<<<
+Vl602                          up             up       NEW_INTERNET_CARRIER TO QOA_IPRAN
+Vl613                          up             up       MGT_WIMAX
+Vl617                          up             up       
+Vl733                          admin down     down     Super View Cyber
+Fa0/2                          up             up       WIMAX_16E_SECTOR_1
+Fa0/3                          up             up       WIMAX_16E_SECTOR_2
+Fa0/4                          up             up       WIMAX_16E_SECTOR_3
+Fa0/19                         up             up       CONNECTION_IPRAN_ATN
+Fa0/21                         up             up       Trunk_DW_BRUCE-BRCLY
+Fa0/22                         up             up       QNQ_IPRAN_VLANS
+Fa0/23                         up             up       QNQ_TUNNEL
+
+>>>>>>>>> End of Output Bruce House Micro Switch_NAIROBI WEST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Bungoma Mfutu Switch_WEST <<<<<<<<<
+Vl1                            up             down     
+Vl601                          up             up       
+Vl605                          up             down     VRF_CARRIER_VLAN_ASR903
+Vl606                          up             down     MGT_VLAN_ASR903
+Vl613                          up             up       MGT_WIMAX
+Vl617                          up             up       
+Vl874                          up             down     95042314-EMU INYA ENTRPRISES-BUNGOMA
+Fa0/2                          up             up       EQUITY_BUNGOMA
+Fa0/5                          up             up       WIMAX 16e PORT SEC_1
+Fa0/7                          up             up       WIMAX 16e PORT SEC_3
+Fa0/8                          up             up       WIMAX 16e PORT SEC_2
+Fa0/10                         up             up       CERAGON_HUB
+Fa0/14                         up             up       Traffic From Mateka(Mumias Sugar Bumula)
+Fa0/19                         up             up       QNQ_IPRAN_VLANS
+Fa0/20                         up             up       QNQ_Tunnel
+Fa0/21                         up             up       CONNECTION_IPRAN_ATN
+Lo0                            up             up       
+
+>>>>>>>>> End of Output Bungoma Mfutu Switch_WEST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Busia Exchange Switch_WEST <<<<<<<<<
+Vl40                           up             down     TEST
+Vl100                          up             down     BTS_Remote_MGT
+Vl392                          up             up       
+Vl604                          up             up       
+Vl612                          up             up       NEW BESPOKE MGT
+Vl613                          up             up       
+Vl719                          admin down     down     Moi University Alupe Campus Busia Internet
+Vl1041                         up             down     
+Vl1298                         up             down     
+Vl2460                         up             up       
+Vl3487                         up             up       
+Fa0/5                          up             up       NBK_KRA_BUSIA
+Fa0/7                          up             up       WIMAX 16e PORT SEC_1
+Fa0/8                          up             up       WIMAX 16e PORT SEC_2
+Fa0/9                          up             up       WIMAX 16e PORT SEC_3
+Fa0/11                         up             up       95096739_KEPHIS BUSIA
+Fa0/12                         up             up       BUSIA CERAGON HUB
+Fa0/13                         up             up       95027171 - MTN Business Kenya Busia
+Fa0/14                         up             up       95033494-SIDIAN BANK LTD-BUSIA PRIMARY
+Fa0/19                         up             up       IPRAN_QNQ_VLAN
+Fa0/20                         up             up       IPRAN_QNQ_TUNNEL
+Fa0/21                         up             up       TO_IPRAN_ATN
+Lo0                            up             up       
+
+>>>>>>>>> End of Output Busia Exchange Switch_WEST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Caltex Nakuru Switch_WEST <<<<<<<<<
+Vl604                          up             up       
+Vl613                          up             up       MGT_WIMAX
+Vl617                          up             up       16E
+Fa0/4                          up             up       WIMAX 16e PORT SEC_1
+Fa0/5                          up             up       WIMAX 16e PORT SEC_2
+Fa0/6                          up             up       WIMAX 16e PORT SEC_3
+Fa0/9                          up             up       95037533-SAROVA MW BACKUP
+Fa0/10                         up             up       Nairobi Womens
+Fa0/19                         up             up       QNQ_IPRAN_VLANS
+Fa0/20                         up             up       QNQ_Tunnel 
+Fa0/21                         up             up       CONNECTION_IPRAN_ATN
+Lo0                            up             up       
+
+>>>>>>>>> End of Output Caltex Nakuru Switch_WEST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Caltex Plaza Switch_Nairobi West <<<<<<<<<
+Vl602                          up             up       
+Vl613                          up             up       MGT_WIMAX
+Vl1177                         up             up       95046783 HIMILO  TV LTD-INTERNET MICROWAVE
+Fa0/8                          up             up       95044621 - CROWN PAINTS LTD-MUTHITHI PLACE SIP BACK UP LOOP
+Fa0/16                         up             up       WIMAX_16E
+Fa0/17                         up             up       WIMAX_16E
+Fa0/19                         up             up       QNQ_IPRAN_VLANS
+Fa0/20                         up             up       QNQ_TUNNEL
+Fa0/21                         up             up       CONNECTION_IPRAN_ATN
+Fa0/22                         up             up       95046783-HIMILO TV LTD
+
+>>>>>>>>> End of Output Caltex Plaza Switch_Nairobi West <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Capital  West UC_Switch_NRB <<<<<<<<<
+Vl1                            up             down     
+Vl602                          up             up       
+Vl607                          up             up       
+Vl613                          up             up       
+Vl711                          up             up       CHURCH WORLD SERVICE-CAPITAL WEST
+Vl713                          up             up       YOUNG & RUBICAM BRANDS LTD
+Vl720                          up             up       95024997-TETRA TECH INTERNATIONAL
+Vl725                          up             up       95038253-CHURCH_WORLD_SERVICE
+Vl1023                         up             up       
+Fa0/1                          up             up       CHURCH WORLD SERVICE-CAPITAL WEST
+Fa0/2                          up             up       MOBILE FINANCIAL SOLUTION
+Fa0/4                          up             up       95024997-TETRA TECH INTERNATIONAL
+Fa0/5                          up             up       95016031_Mobile_Fin_Sol_Ltd-Backhaul_SMSC
+Fa0/6                          up             up       95038253-CHURCH_WORLD_SERVICE
+Fa0/11                         up             up       Q-in-Q in
+Fa0/13                         up             up       VLAN stripper
+Fa0/24                         up             up       UPLINK_CAPITAL_WEST
+Lo0                            up             up       
+
+>>>>>>>>> End of Output Capital  West UC_Switch_NRB <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Changamwe Exchange Switch_EAST <<<<<<<<<
+Vl256                          up             up       
+Vl375                          up             up       
+Vl602                          up             up       
+Vl612                          up             up       
+Vl613                          up             up       MGT_WIMAX
+Vl617                          up             up       ASN_GATEWAY_MNGT
+Vl740                          up             up       95016671-CONSOLBASE_LIMITED
+Vl1069                         up             down     
+Vl1203                         up             up       
+Vl1218                         up             up       
+Vl1777                         up             up       
+Vl1998                         up             up       
+Fa0/3                          up             up       WIMAX 16e PORT SEC_1
+Fa0/4                          up             up       WIMAX 16e PORT SEC_2
+Fa0/5                          up             up       WIMAX 16e PORT SEC_3
+Fa0/7                          up             up       95016671-CONSOLBASE_LIMITED
+Fa0/8                          up             up       95009538-KENYA REVENUE AUTHORITY-FOCUS
+Fa0/9                          up             up       95019520-KPA-MOMBASA TRAINING CENTRE 
+Fa0/10                         up             up       95009497-NBK_changamwe
+Fa0/12                         up             up       95037499 CASAMOKO CONTRACTORS & HYOUNG KIPEVU
+Fa0/17                         up             up       QNQ_IPRAN_VLANS
+Fa0/18                         up             up       QNQ_TUNNEL
+Fa0/21                         up             up       CONNECTION_IPRAN_ATN
+Fa0/23                         up             up       95046828-KPC MOI AIRPORT
+Lo0                            up             up       
+
+>>>>>>>>> End of Output Changamwe Exchange Switch_EAST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Chogoria Switch_EAST <<<<<<<<<
+Vl1                            up             down     
+Vl100                          up             down     Wimax Remote Management
+Vl601                          up             up       
+Vl613                          up             up       NEW_MGT_WIMAX_VLAN
+Vl710                          up             up       95034001-NDOCHA CO-OP SAVINS & CREDIT SOCIETY LTD
+Vl711                          up             up       Village Hope International
+Vl712                          up             up       PCEA Chogoria
+Vl713                          up             down     Speedtech Connections
+Vl714                          up             up       Chogoria Girls High School
+Vl715                          up             up       Sisi Communication Industrial Area
+Vl716                          up             up       95024253-NEWTON MWITO GITONGA
+Vl717                          up             down     95013858 Safaricom Retail Care Desk Visions Chogoria
+Vl718                          up             up       700380703 Village Hope International
+Vl719                          up             up       95028443-VILLAGE HOPECORE   INTERNATIONAL
+Vl721                          up             up       95024813-DOUGLAS KIMATHI RIUNGU
+Vl735                          up             up       95043261-CHOGORIA BOYS
+Vl3513                         up             up       95030541_SOUTHERN_STAR_SAVINGS_AND_CREDIT
+Fa0/1                          up             up       Wimax BTS
+Fa0/2                          up             up       CERAGON_FA2500
+Fa0/11                         up             up       QNQ_IPRAN_VLANS
+Fa0/12                         up             up       QNQ_TUNNEL
+Fa0/23                         up             up       CONNECTION_IPRAN_ATN Port 0/2/19
+
+>>>>>>>>> End of Output Chogoria Switch_EAST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Chuka Switch_EAST <<<<<<<<<
+Vl100                          up             up       
+Vl106                          up             down     
+Vl150                          up             up       
+Vl601                          up             up       NEW INTERNET CARRIER
+Vl612                          up             up       
+Vl613                          up             up       
+Vl616                          up             up       
+Vl700                          up             down     95024577 ARK EXECUTIVE HOSTELS
+Vl711                          up             up       700321861 Eastlink Hotel
+Vl712                          up             down     Simon Mugendi Muturi 
+Vl714                          up             down     Stella Kanini Mukuru
+Vl715                          up             up       95003888-Grace_Nyaruai_Ngigi
+Vl716                          up             down     Saykom Digital Communication Network
+Vl717                          up             down     Korir Nixon Kipchumba
+Vl720                          up             down     95018852-Ministry_of_Lands-Chuka_Registry
+Vl722                          up             up       95020208-Detra Professional College
+Vl727                          up             up       95022230-PCEA-CHOGORIA-HOSPITAL
+Vl728                          up             down     95023873-Spencer Nyagah Nthiga
+Vl744                          up             up       95028838 SIMIYU BRIAN
+Vl1071                         up             up       
+Vl3679                         up             up       
+Fa0/1                          up             up       Wimax sector 1 Traffic
+Fa0/2                          up             up       Equity_Chuka
+Fa0/3                          up             up       95003385-KENYA INSTITUTE OF MANAGEMENT  CHUKA
+Fa0/7                          up             up       ceragon bts
+Fa0/9                          up             up       95033495_SIDIAN BANK LTD-CHUKA PRIMARY
+Fa0/11                         up             up       QNQ_IPRAN_VLANS
+Fa0/12                         up             up       QNQ_TUNNEL
+Fa0/13                         up             up       WIMAX 16e PORT SEC_1
+Fa0/18                         up             up       Chuka university winlinks
+Fa0/23                         up             up       CONNECTION_IPRAN_ATN (PORT 0/2/19)
+Lo0                            up             up       
+
+>>>>>>>>> End of Output Chuka Switch_EAST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Dadaab Exchange Switch_EAST <<<<<<<<<
+Vl234                          up             up       
+Vl314                          up             up       
+Vl321                          up             up       equity garissa
+Vl449                          up             up       
+Vl601                          up             up       CARRIER_INTERNET
+Vl605                          up             up       
+Vl612                          up             up       BESPOKE_MGT
+Vl613                          up             up       WIMAX_MGT
+Vl700                          up             up       95027332-UNICEF  DAADAB OFFICE
+Vl701                          up             up       95031499-RELIEF RECONSTRUCTION  AND DEVELOPMENTORGANISATION-DAADAB RD
+Vl711                          up             up       Church World Services
+Vl712                          up             up       95019536 Filmaid-Dadaab 
+Vl715                          up             up       95095981 IOM DAADAB Bespoke
+Vl716                          up             up       DanishRefugeeDadaab  
+Vl717                          up             up       Film Aid Dadaab
+Vl719                          up             up       95017094 Refugee  Consortium Of Kenya-Dadaab
+Vl720                          up             up       DANISH REFUGEE COUNCIL- HAGADERA
+Vl723                          up             up       Avsi Foundation-Daadab 
+Vl725                          up             up       Windle Trust Kenya - Dagahaley 
+Vl727                          up             up       95005361 Care International Dadaab Main Office Bespoke
+Vl729                          up             up       Windle Trust Kenya Dagahaley_LWF
+Vl730                          up             up       UNHCR Dadaab
+Vl731                          up             up       Ministry of Immigration Dadaab
+Vl733                          up             up       Handicap International Dadaab
+Vl737                          up             up       Kenya Red Cross Daadab
+Vl738                          up             up       Relief Reconstruction And  Development Organisation-Daadab
+Vl739                          up             up       Care Dadaab-Dagahaley Community ICT Centre
+Vl741                          up             up       Refuge Consortium of Kenya - Daadab
+Vl742                          up             up       ISLAMIC RELIEF-DADAAB
+Vl744                          up             up       95015549-SAFARICOM_CORPORATE_RESPONSIBILITY-CARE-DAADAB_1 
+Vl747                          up             up       95012663-WORLD_VISION_ALINJUGUR_DADAAB
+Vl751                          up             up       National Council of Churches of Kenya - Dadaab
+Vl752                          up             up       UNICEF KCO Dadaab
+Vl754                          up             up       African Development & Emergency Organization - IFO Youth Office Dadaab
+Vl755                          up             up       Africa Dev Emergency Org Community Offce
+Vl756                          up             up       Centre For Victims Of Torture - Dadaab
+Vl757                          up             up       Solidarites International - Dadaab
+Vl762                          up             up       95030539 TERRE DS HOMES FOUNDATION
+Vl763                          up             up       95013586 Action Against Hunger Dadaab  
+Vl764                          up             up       95013922 Save The Children International- Kenya Office- Dadaab
+Vl767                          up             up       95015375-Norwegian Refugee Council-Dadaab Bespoke
+Vl768                          up             up       95016899 IOM-Dadaab Guest House Dadaab
+Vl770                          up             up       95018398 International  NGO Safety Organization-
+Vl771                          up             up       95021901-CENTRE FOR VICTIMS OF TORTURE-DAADAB
+Vl772                          up             up       95018189-SAVE THE CHILDREN-DADAAB 
+Vl773                          up             up       95031504-WORLD VISION KENYA-HAGADERA
+Vl776                          up             up       95033415-WINDLE TRUST -HAGADERA OFFICE 2
+Vl777                          up             up       95033664 THE LUTHERAN WORLD FEDERATION-DAADAB
+Vl778                          up             up       95034165-WINDLE  TRUST KENYA-BHER CENTRE 
+Vl790                          up             up       95044754_NORWEGIAN_REFUGEE
+Vl1084                         up             up       
+Vl3719                         up             up       
+Fa0/9                          up             up       95027332-UNICEF  DAADAB OFFICE
+Fa0/23                         up             up       Connection to BTS
+Gi0/1                          up             up       new DADAAB CERAGON HUB
+Gi0/2                          up             up       NEW NGM_TO_GARISSA_MODICAR
+Lo0                            up             up       
+
+>>>>>>>>> End of Output Dadaab Exchange Switch_EAST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Dagoretti Switch_Nairobi West <<<<<<<<<
+Vl602                          up             up       
+Vl613                          up             up       MGT_WIMAX
+Fa0/2                          up             up       WIMAX 16e PORT SEC_1
+Fa0/3                          up             up       WIMAX 16e PORT SEC_2
+Fa0/4                          up             up       WIMAX 16e PORT SEC_3
+Fa0/19                         up             up       QNQ_IPRAN_VLANS
+Fa0/20                         up             up       QNQ_TUNNEL
+Fa0/21                         up             up       CONNECTION_IPRAN_ATN
+
+>>>>>>>>> End of Output Dagoretti Switch_Nairobi West <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Deloraine Switch_WEST <<<<<<<<<
+                  ^
+Error: Unrecognized command found at '^' position.
+
+>>>>>>>>> End of Output Deloraine Switch_WEST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Delta Towers UC Switch_NRB <<<<<<<<<
+Vl1                            up             up       
+Vl602                          up             up       
+Vl607                          up             up       
+Vl613                          up             up       
+Vl711                          up             up       EAST AFRICA EXPLORATION KENYA LTD
+Vl712                          up             up       95014174-FUTURES_FIRST
+Vl714                          up             up       95019328-MCKINSEY_AND_COMPANY_INC_LIMITED
+Vl715                          up             up       
+Vl716                          up             up       95018795_ALMASI_BEVERAGES_LTD
+Vl717                          up             up       95020734 Rabo Bank Delta Corner Tower 
+Vl718                          up             up       95039147_VERVE_K_O_LIMITED
+Vl719                          up             up       95023919- Fat Loss Laboratory
+Vl720                          up             up       95024736-MAIL  & GUARDIAN AFRICA LTD
+Vl721                          up             up       95024831-MCKINSEY_AND_COMPANY_INC_LIMITED
+Vl723                          up             up       95035501 MCKINSEY & COMPANY
+Vl724                          up             up       95030485-MANDERA COUNTY-DELTA OFFICE
+Vl725                          up             up       95036397-PAPRIKA  LIMITED
+Vl730                          up             up       95030170-NAROK  COUNTY GOVERNMENT
+Vl735                          up             up       95040137 VISHAL  AGARWAL
+Vl831                          up             up       95021070-REGUS OFFICES- DELTA
+Vl989                          up             up       95044187 - REDINGTON KENYA LTD-DELTA
+Vl1023                         up             up       Management Vlan
+Vl1157                         up             up       95043321-KIRINYAGA COUNTY GOVERNMENT DELTA HOUSE
+Fa0/2                          up             up       95048679 ASPAM ENERGY
+Fa0/3                          up             up       95019002-URBAN EATERY
+Fa0/5                          up             up       95036397-PAPRIKA  LIMITED
+Fa0/6                          up             up       95020734 Rabo Bank Delta Corner Tower 
+Fa0/7                          up             up       95030767-MARSABIT COUNTY GOVERNMENT
+Fa0/9                          up             up       95030170-NAROK  COUNTY GOVERNMENT
+Fa0/11                         up             up       QnQ Stripper
+Fa0/12                         up             up       95044187 - REDINGTON KENYA LTD-DELTA
+Fa0/13                         up             up       QnQ VLAN TAGGING
+Fa0/14                         up             up       95024831-MCKINSEY AND COMPANY INC LIMITED
+Fa0/15                         up             up       95026557-CHESTNUT  HILL INVESTMENTS
+Fa0/16                         up             up       95035501 MCKINSEY & COMPANY
+Fa0/17                         up             up       95030485-MANDERA COUNTY-DELTA OFFICE
+Fa0/18                         up             up       95040137 - VISHAL  AGARWAL
+Fa0/19                         up             up       95044648 - PROCTOR & GAMBLE-HCS LOO
+Fa0/23                         up             up       95021070-REGUS OFFICES- DELTA
+Fa0/24                         up             up       UPLINK TO SCC VIA BE555
+
+>>>>>>>>> End of Output Delta Towers UC Switch_NRB <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Diani Exchange Switch_COAST <<<<<<<<<
+Vl120                          up             up       
+Vl150                          up             up       
+Vl450                          up             up       
+Vl601                          up             up       CARRIER_INTERNET
+Vl606                          up             up       
+Vl613                          up             up       MGT_WIMAX_BS
+Vl701                          up             up       95035063-SOUTHERN  HILLS DEVELOPMENT
+Vl711                          up             up       95014073_VOGUE_NINETY_NINE_LTD
+Vl713                          up             up       95027353-NATIONAL DROUGHT MANAGEMENT AUTHORITY-KWALE
+Vl714                          up             up       95036656-NATIONAL DROUGHT MGT AUTHORITY KWALE
+Vl715                          up             up       95044844-CHINA CIVIL CONSTRUCTION LTD-SHIMONI
+Vl720                          up             up       95029216-KWALE WATER LTD
+Vl744                          up             up       95045089-AMANI SAFARIS LTD
+Vl747                          up             up       95044844-CHINA CIVIL CONSTRUCTION LTD-SHIMONI
+Vl748                          up             up       95044828-MSAMBWENI  COUNTY HOSPITAL MICROWAVE
+Vl751                          up             up       
+Vl759                          up             up       95045095-YEHU MICRO FINANCE-KWALE
+Vl3849                         up             up       
+Fa0/18                         up             up       NGM to shimoni/mkunazini/vogue99/Lunga 
+Fa0/21                         up             up       NGM to mkoyo/Galu/Ukunda/Kwale
+Gi0/2                          up             up       ==TO DIANI EXCHANGE EBT ASR 903 Gi0/0/5 =
+Lo0                            up             up       
+
+>>>>>>>>> End of Output Diani Exchange Switch_COAST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Eldama Ravine Switch_WEST <<<<<<<<<
+Vl87                           up             up       ipran_test
+Vl100                          up             down     Wimax Remote Management
+Vl322                          up             up       
+Vl604                          up             up       
+Vl612                          up             up       
+Vl613                          up             up       MGT_WIMAX
+Vl617                          up             up       16E
+Vl712                          up             down     Karen Roses Joint Body 
+Vl713                          up             down     Ayabei Rosael 
+Vl714                          up             up       95008922-BARINGO TEACHERS SACCO
+Vl715                          up             up       Karen Roses Eldama Ravine
+Vl720                          up             up       95021800-Sobak Enterprises Limited
+Vl722                          up             up       95022958-HAND_IN_HAND_EASTERN_AFRICA_ELDAMA_RAVIN 
+Vl731                          up             up       95020971-CHAMBAI SPRINGS HOTEL
+Vl732                          up             up       95022007-DAISY_CHERUTO_KOTUT
+Vl733                          up             up       95024004_KISII_UNIVERSITY-RAVINE_CAMPUS
+Fa0/2                          up             up       WIMAX 16e PORT SEC_1
+Fa0/5                          up             up       CERAGON_FA2500
+Fa0/13                         up             up       Karen Roses, Eldama Ravine
+Fa0/19                         up             up       QNQ_IPRAN_VLANS
+Fa0/20                         up             up       QNQ_TUNNEL
+Fa0/21                         up             up       CONNECTION_IPRAN_ATN
+
+>>>>>>>>> End of Output Eldama Ravine Switch_WEST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Eldoret  Fire station/Hospital Switch_WEST <<<<<<<<<
+Vl1                            up             down     
+Vl100                          up             down     BTS_Remote_Management
+Vl604                          up             up       
+Vl613                          up             up       MGT_WIMAX
+Fa0/2                          up             up       WIMAX 16e PORT SEC_1
+Fa0/3                          up             up       WIMAX 16e PORT SEC_2
+Fa0/4                          up             up       WIMAX 16e PORT SEC_3
+Fa0/5                          up             up       95040987-KENYA RAILWAYS CORPORATION-ELDORET
+Fa0/7                          up             up       95042263-MOUNT  KENYA BOTTLERS LTD-ELDORET
+Fa0/9                          up             up       95046863 : MINISTRY OF IMMIGRATION-ELDORET
+Fa0/10                         up             up       Consolidated Bank Eldoret
+Fa0/12                         up             up       95021399-MINISTRY OF LANDS-ELDORET ARDHI HOUSE
+Fa0/18                         up             up       QNQ_IPRAN_VLANS
+Fa0/19                         up             up       QNQ_Tunnel
+Fa0/20                         up             up       CONNECTION_IPRAN_ATN
+
+>>>>>>>>> End of Output Eldoret  Fire station/Hospital Switch_WEST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Eldoret Airport Switch_WEST <<<<<<<<<
+Vl604                          up             up       
+Vl613                          up             up       MGT_WIMAX
+Vl617                          up             up       16e
+Vl3296                         up             down     
+Fa0/3                          up             up       WIMAX 16e PORT SEC_1
+Fa0/18                         up             up       QNQ_IPRAN_VLANS
+Fa0/19                         up             up       QNQ_Tunnel
+Fa0/20                         up             up       CONNECTION_IPRAN_ATN
+Lo0                            up             up       
+
+>>>>>>>>> End of Output Eldoret Airport Switch_WEST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Eldoret DC  Switch_WEST <<<<<<<<<
+Vl100                          up             down     Remote_Management
+Vl604                          up             up       
+Vl613                          up             up       MGT_WIMAX
+Vl617                          up             up       16e
+Vl732                          up             down     
+Vl740                          admin down     down     95016212-Futures Group-Eldoret Business Plus
+Vl742                          up             up       95016035-WORLD-VISION-ELDORET
+Vl1822                         up             down     ICEA ELDORET
+Vl3316                         up             up       
+Vl3683                         up             up       
+Vl3953                         up             up       
+Fa0/2                          up             up       95016593-EQUITY  BANK-ELDORET SUPREME
+Fa0/4                          up             up       95019130-CARBACID LTD -KAPTAGAT
+Fa0/5                          up             up       WIMAX 16e PORT SEC_1
+Fa0/6                          up             up       WIMAX 16e PORT SEC_2
+Fa0/7                          up             up       WIMAX 16e PORT SEC_3
+Fa0/9                          up             up       95029742 : MEDIHEAL HOSPITAL MEDIHEAL-ELDORET
+Fa0/11                         up             up       NMG_ELDORET
+Fa0/12                         up             up       95016035 WORLD VISION ELDORET
+Fa0/18                         up             up       QNQ_IPRAN_VLANS
+Fa0/19                         up             up       QNQ_Tunnel
+Fa0/20                         up             up       CONNECTION_IPRAN_ATN
+
+>>>>>>>>> End of Output Eldoret DC  Switch_WEST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Eldoret Exchange Switch_WEST <<<<<<<<<
+Vl604                          up             up       
+Vl613                          up             up       MGT_WIMAX
+Vl616                          up             up       
+Fa0/4                          up             up       95095976_Naivas Sokoni
+Fa0/5                          up             up       WIMAX 16e PORT SEC_1
+Fa0/6                          up             up       WIMAX 16e PORT SEC_2
+Fa0/7                          up             up       WIMAX 16e PORT SEC_3
+Fa0/18                         up             up       QNQ_IPRAN_VLANS
+Fa0/19                         up             up       QNQ_TUNNEL
+Fa0/20                         up             up       CONNECTION_IPRAN_ATN
+Lo0                            up             up       
+
+>>>>>>>>> End of Output Eldoret Exchange Switch_WEST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Eldoret Kahoya Estate Switch_WEST <<<<<<<<<
+Vl604                          up             up       
+Vl612                          up             up       
+Vl613                          up             up       MGT_WIMAX
+Vl617                          up             up       16e
+Fa0/2                          up             up       Kenol_Kobil_Eldoret
+Fa0/3                          up             up       WIMAX 16e PORT SEC_1
+Fa0/5                          up             up       95046824-KPC-ELDORET
+Fa0/18                         up             up       QNQ_IPRAN_VLANS
+Fa0/19                         up             up       QNQ_Tunnel
+Fa0/20                         up             up       CONNECTION_IPRAN_ATN
+
+>>>>>>>>> End of Output Eldoret Kahoya Estate Switch_WEST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Eldoret North Switch_WEST <<<<<<<<<
+Vl10                           up             up       please do not assign to be used in NGN
+Vl12                           up             down     
+Vl85                           up             up       IPRANtest
+Vl604                          up             up       
+Vl613                          up             up       MGT_WIMAX
+Vl701                          up             down     95024940 SCB-KITALE_JTL FIBER
+Vl711                          up             up       Baraton University
+Vl718                          up             down     NSIS_Kapsabet
+Vl1050                         up             down     
+Vl1229                         up             down     
+Vl1822                         up             down     
+Vl2156                         up             down     
+Vl2720                         up             down     
+Vl2900                         up             down     
+Vl3238                         up             down     
+Vl3296                         up             down     
+Vl3323                         up             down     
+Vl3608                         up             down     
+Fa0/12                         up             up       PRIME_STEEL
+Fa0/17                         up             up       QNQ_IPRAN_VLANS
+Fa0/18                         up             up       QNQ_Tunnel 
+Fa0/19                         up             up       METSEC CABLES LTD - ELDORET
+Fa0/23                         up             up       CONNECTION_IPRAN_ATN
+Gi0/2                          up             up       JTL_HO
+Lo0                            up             up       
+
+>>>>>>>>> End of Output Eldoret North Switch_WEST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Eldoret Racecourse Switch_WEST <<<<<<<<<
+Vl52                           up             down     VPLS TEST to SHELAHUB
+Vl604                          up             up       
+Vl613                          up             up       MGT_WIMAX
+Vl716                          admin down     down     Ndupawa_Prestige_Guest_House
+Fa0/2                          up             up       WIMAX 16e PORT SEC_1
+Fa0/18                         up             up       QNQ_IPRAN_VLANS
+Fa0/19                         up             up       QNQ_Tunnel
+Fa0/20                         up             up       CONNECTION_IPRAN_ATN
+Lo0                            up             up       
+
+>>>>>>>>> End of Output Eldoret Racecourse Switch_WEST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Embakasi Village Switch_NRB <<<<<<<<<
+Vl13                           up             up       
+Vl100                          up             down     
+Vl229                          up             down     
+Vl601                          up             up       NEW INTERNET CARRIER VLAN
+Vl605                          up             down     Internet
+Vl612                          up             up       BESPOKE_MGT_VLAN
+Vl613                          up             up       NEW_MGT_WIMAX_GOSPEL
+Vl617                          up             up       
+Vl714                          up             down     Pelican_Haulage
+Vl718                          up             down     95017146 Cisco Networks-Felix Bako
+Vl719                          up             down     malaika_tech
+Vl720                          up             down     Senex Cyber
+Vl721                          up             down     Tims Communications - Caltex Donholm
+Vl726                          up             down     Cement Africa
+Vl742                          up             down     Fatuma Yussuf Sheikh
+Vl746                          up             down     Franklin Oscar
+Vl749                          up             down     Extreme Designs LTD
+Vl753                          up             down     Fred Omusala Lubanga
+Vl756                          up             down     African Union Of The Blind
+Vl765                          up             down     Kasneb Cloud Internet 
+Vl768                          up             down     Nyakango_Viberti_Abuga
+Vl1013                         up             down     
+Vl1023                         up             down     
+Vl1024                         up             down     
+Fa0/2                          up             up       WIMAX_16E_SECTOR_2
+Fa0/3                          up             up       WIMAX_16E_SECTOR_3
+Fa0/4                          up             up       WIMAX_16E_SECTOR_1
+Fa0/8                          up             up       95019653_AAR Healthcare Embakasi Clinic
+Fa0/10                         up             up       95033878-NOVEL TECHNOLOGIES EA LIMITED-KNEC-EMBAKASI
+Fa0/19                         up             up       QinQ IPRAN
+Fa0/20                         up             up       QinQ TUNNEL
+Fa0/21                         up             up       TO_ATN_Ge0/2/7
+
+>>>>>>>>> End of Output Embakasi Village Switch_NRB <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Embu Exchange Switch_EAST <<<<<<<<<
+Vl12                           up             down     
+Vl100                          up             down     Wimax Remote Management
+Vl601                          up             up       
+Vl605                          up             down     
+Vl606                          up             down     
+Vl613                          up             up       MGT_WIMAX
+Vl617                          up             up       ASN_MGT_VLAN
+Vl716                          up             down     PSI EMbu
+Vl717                          up             down     Vitalice Odongo Kajuma
+Vl725                          up             down     CallKey JH Piego Embu
+Vl731                          up             down     95015166-Palmhaven Farms Ltd
+Vl1200                         up             down     
+Vl1889                         up             down     
+Vl3109                         up             up       
+Vl3231                         up             down     
+Fa0/3                          up             up       95016077_BOA Embu
+Fa0/4                          up             up       95019275-BIMAS_LTD-EMBU_MICROWAVE
+Fa0/6                          up             up       95037454_MINISTRY_OF_LANDS_EMBU
+Fa0/7                          up             up       95037454_KRA_EMBU_E1
+Fa0/9                          up             up       WIMAX 16e PORT SEC_1
+Fa0/10                         up             up       WIMAX 16e PORT SEC_2
+Fa0/19                         up             up       QinQ_VLAN_STRIPPER
+Fa0/20                         up             up       QinQ_Port
+Fa0/21                         up             up       CONNECTION_TO_ATN Gig 0/2/23
+
+>>>>>>>>> End of Output Embu Exchange Switch_EAST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Embu Kangaru Switch_EAST <<<<<<<<<
+Vl446                          up             up       
+Vl500                          up             up       test
+Vl555                          up             up       
+Vl601                          up             up       
+Vl605                          up             up       
+Vl606                          up             up       
+Vl613                          up             up       MGT_WIMAX
+Vl710                          up             up       95028861-DAIMA SACCO
+Vl711                          up             up       Computer Action Networks Embu
+Vl712                          up             up       95014591-NSIS Embu Project Office Bespoke 
+Vl720                          up             up       
+Vl721                          up             up       95021614_CORENETT_KIANJOKOMA_MICROWAVE
+Vl746                          up             up       95023819-SUPERIOR HIGHLAND DAIRIES-MICROWAVE
+Vl1889                         up             up       
+Vl2132                         up             up       
+Fa0/4                          up             up       95010841-ACCESS KENYA - NIS EMBU TEST
+Fa0/5                          up             up       95044771-NCPWD EMBU
+Fa0/15                         up             up       NGN Rx PORT (MAnyatta,Rukuriri,Mungania,Kianjokoma)
+Gi0/1                          up             up       ==TO_EMBU-KANGARU_EBT_ASR903_PE-G0/0/6==
+
+>>>>>>>>> End of Output Embu Kangaru Switch_EAST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output ENT-MARALAL-C3550-DC <<<<<<<<<
+Vl70                           up             up       
+Vl602                          up             up       Internet Carrier Nakuru KBC
+Vl612                          up             up       
+Vl613                          up             up       NEW_Management
+Vl777                          up             up       
+Fa0/8                          up             up       CERAGON_FA2500
+Fa0/16                         up             up       95038891-MINISTRY OF DEVOLUTION-SAMBURU 
+Fa0/23                         up             up       NGM_MELWA_RANCH_SWITCH==FA0/24(172.17.99.3)
+
+>>>>>>>>> End of Output ENT-MARALAL-C3550-DC <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output ENT-NBI-QOA-ME3800X-SPE-02.safaricom.net <<<<<<<<<
+Vl10                           up             up       ===TO_ASR9K1_P2P==
+Vl430                          up             up       
+Vl601                          up             down     NEW_INTERNET_CARRIER
+Vl604                          up             down     
+Vl613                          up             up       MGT_WIMAX
+Vl720                          up             down     
+Vl800                          up             down     CBK Backup Internet
+Vl801                          up             down     EURO PETROLEUM -BABA DOGO
+Vl941                          up             up       
+Vl1140                         up             down     
+Vl1885                         up             down     Nairobi Water Parklands [LimuruRd]
+Vl2000                         up             down     
+Vl2076                         up             down     
+Vl2236                         up             down     Kadet_Jogoo_Wimax
+Vl2796                         up             down     DHL_RUARAKA
+Vl2982                         up             down     Nairobi Water EnterpriseCentre
+Vl3048                         up             down     KBA_P2P_VIA_SDH__S_TAG
+Vl3238                         up             up       Serena_Nairobi
+Vl3239                         up             up       Serena_CentralStores
+Vl3710                         up             down     Nairobi_Water-Ngethu
+Vl4001                         up             down     
+Gi0/1                          up             up       JTL FIBER MCS50 ETY 105
+Gi0/2                          up             up       LINK 1 TO  JTL SDH XDM i6 Port 8 JERICHO-WIMAX-BTS
+Gi0/3                          up             up       KBA_P2P_VIA_SDH
+Gi0/4                          up             up       UC_CIRCUITS
+Gi0/7                          up             up       ==OSN3500-S14P4-NNBI-WIMAX-AGG== 
+Gi0/10                         up             up       Internet LINK 1 TO MPLS JTL ECI9604 0/0 TELCO ROOM
+Gi0/11                         up             up       P2P MPLS LINK 1 TO JTL ECI9604 0/8  TELCO ROOM
+Gi0/13                         up             up       CP-ROUTER_G0/13
+Gi0/16                         up             up       ===NNBI-COLLOCATION-QOA-A201===
+Gi0/17                         up             up       ===description GATEWAY FOR SERVER FIREWALL===
+Gi0/18                         up             up       ====LINK TO NEXUS5K====TELEPRESENCE-HUB-QOA
+Te0/1                          up             up       ==MC-LAG-NEW_QOA-EBT-ASR9K1-PE-01_Te0/0/1/1===
+Te0/2                          up             down     ==MC-LAG-NEW_QOA-EBT-ASR9K1-PE-02_Te0/0/1/1===
+Po22                           up             up       
+Lo0                            up             up       
+pw100001                       up             up       
+pw100002                       up             up       
+pw100004                       up             up       
+
+>>>>>>>>> End of Output ENT-NBI-QOA-ME3800X-SPE-02.safaricom.net <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output ENT-NBI-QOA-ME3800X-WIMAX16E.safaricom.net <<<<<<<<<
+Vl613                          up             up       
+Vl615                          up             up       CPE_7K_MGT
+Gi0/2                          up             up       CISCO_MSERIES_220
+Gi0/3                          up             up       Link to NNBI-QOA-AC201 (172.17.121.31)
+Gi0/9                          up             up       ==QOA-ASNGW-04==
+Gi0/10                         up             up       ==QOA-ASNGW-01==
+Gi0/11                         up             up       ==QOA-ASNGW-02==
+Gi0/12                         up             up       ==QOA-ASNGW-03==
+Gi0/16                         up             up       ===po4__New Wimax_QOA_AAA_PORT1===
+Gi0/17                         up             up       ===po4__New Wimax_QOA_AAA_PORT2===
+Gi0/23                         up             up       SEC-AG
+Te0/1                          up             up       MC-LAG-NEW_QOA-EBT-ASR9K1-PE-01_TenGigE0/0/1/3
+Te0/2                          up             down     MC-LAG-NEW_QOA-EBT-ASR9K1-PE-02_TenGigE0/0/1/3
+Po4                            up             up       ===New Wimax_QOA_AAA-BUNDLE_ETHER==
+Po8                            up             up       
+
+>>>>>>>>> End of Output ENT-NBI-QOA-ME3800X-WIMAX16E.safaricom.net <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output ENT-WAJIR-C3550-DC_Switch_EAST <<<<<<<<<
+Vl1                            up             down     
+Vl601                          up             up       
+Vl613                          up             up       SWITCH_MANAGEMENT
+Vl708                          up             up       95029697-MAJID SATELITESOLUTIONS - Wajir
+Vl709                          up             up       95029696-MAJID SATELITESOLUTIONS - Wajir
+Vl721                          up             up       95022272-SAVE-THE-CHILDREN-WAJIR
+Vl722                          up             up       95016537-ADESO-WAJIR 
+Vl723                          up             up       Islamic_Relief_Wajir
+Vl724                          up             up       95023040-WAJIR GUEST HSE
+Vl725                          up             up       95022703-WORLD VISION RAPID
+Vl726                          up             up       95027348-NATIONAL DROUGHT MANAGEMENT AUTHORITY-WAJIR 
+Vl727                          up             up       95030008-MAJID-SATELITE-SOLUTIONS
+Vl728                          up             up       95041345-K.N.C  ON HUMAN RIGHTS-WAJIR
+Vl730                          up             up       95029592-MAJID_SATELITE_SOLUTIONS
+Vl731                          up             up       95045542-ISLAMIC RELIEF-WAJIR
+Vl870                          up             up       95038511-HAMDI MOHAMED GUYO
+Vl980                          up             up       95029683-CELEX COMPANY LIMITED
+Vl989                          up             up       95034974-SOMKEN TECH LTD
+Vl990                          up             up       95041705-ER COFFEE HOUSE LIMITED
+Vl995                          up             up       95047193- MERCY CORPS KENYA -PREMIUM
+Vl1168                         up             up       95043334-ABDIRASHID SHEIKH
+Vl2452                         up             up       
+Vl3136                         up             up       FCB wajir ceragon
+Fa0/8                          up             up       CERAGON_FA2500
+Fa0/24                         up             up       Wajir_PTN_Gig0/1/2 (Add each client's vlan on PTN)
+
+>>>>>>>>> End of Output ENT-WAJIR-C3550-DC_Switch_EAST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output FEDHA_TOWERS280.safaricom.net <<<<<<<<<
+Vl601                          up             up       
+Vl602                          up             up       
+Vl613                          up             up       NEW_MGT
+Vl712                          up             down     205100955 EYECARE CONSULTANTS LTD UC
+Fa0/13                         up             up       QNQ_IPRAN_VLANS
+Fa0/14                         up             up       QNQ_TUNNEL
+Fa0/22                         up             up       TO_Fedha_Towers_Eco_Bank_ATN_GE Port_0/2/11
+
+>>>>>>>>> End of Output FEDHA_TOWERS280.safaricom.net <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Fig Tree Switch_NRB <<<<<<<<<
+Vl1                            up             down     
+Vl100                          up             up       
+Vl601                          up             up       NEW_INTERNET_CARRIER
+Vl602                          up             up       NEW_INTERNET_CARRIER
+Vl613                          up             up       MGT_WIMAX
+Vl1970                         up             up       Mada Hotels-Mara
+Fa0/1                          up             up       FIG-TREE-MICRO-BTS
+Fa0/2                          up             up       KCB-MASAI-MARA
+Fa0/3                          up             up       BTS_Remote_MGT
+Fa0/4                          up             up       95037290 - SAFARICOM CARE DESK_TALEK
+Fa0/5                          up             up       NGM to Cheromit via Kapkatet switch
+
+>>>>>>>>> End of Output Fig Tree Switch_NRB <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Gachie Switch_Nairobi West <<<<<<<<<
+Vl100                          up             down     
+Vl602                          up             up       
+Vl613                          up             up       MGT_WIMAX
+Vl3563                         up             up       
+Fa0/2                          up             up       WIMAX 16e PORT SEC_1
+Fa0/3                          up             up       WIMAX 16e PORT SEC_2
+Fa0/4                          up             up       WIMAX 16e PORT SEC_3
+Fa0/19                         up             up       QNQ_IPRAN_VLANS
+Fa0/20                         up             up       QNQ_TUNNEL
+Fa0/21                         up             up       CONNECTION_IPRAN_ATN
+
+>>>>>>>>> End of Output Gachie Switch_Nairobi West <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Galu Switch_COAST <<<<<<<<<
+Vl1                            up             down     
+Vl45                           up             down     IPRAN_TEST_MGT
+Vl100                          up             down     BTS_Remote_MGT
+Vl601                          up             up       CARRIER_INTERNET
+Vl613                          up             up       MGT_WIMAX_BS
+Vl617                          up             up       
+Vl714                          up             up       95022397-MZIMA_HOUSE_LTD
+Vl717                          up             up       Joshua Kisamwa Enoch
+Fa0/5                          up             up       GALU CERAGON HUB
+Fa0/6                          up             up       WIMAX 16e PORT SEC_1
+Fa0/19                         up             up       QNQ_IPRAN_VLANS
+Fa0/20                         up             up       QNQ_TUNNEL
+Fa0/21                         up             up       CONNECTION_IPRAN_ATN
+Lo0                            up             up       
+
+>>>>>>>>> End of Output Galu Switch_COAST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Garissa Exchange Switch_EAST <<<<<<<<<
+Vl100                          up             down     BS_REMOTE_MGT
+Vl111                          up             down     
+Vl200                          up             up       
+Vl601                          up             up       CARRIER_INTERNET
+Vl606                          up             down     
+Vl612                          up             up       BESPOKE_MGT
+Vl613                          up             up       WIMAX_MGT
+Vl617                          up             up       
+Vl704                          up             up       95033085-TERRE DES HOMMES GARISSA 
+Vl710                          up             up       95030520-GARISSA  COUNTY REFERAL HOSPITAL
+Vl713                          up             down     Mentor Initiative
+Vl717                          up             down     Abdisalam Sheikh Home
+Vl718                          up             down     Hiddig Hotels
+Vl721                          up             down     Abdisalam Sheikh
+Vl722                          up             down     Catholic Diocese of Garissa
+Vl723                          up             up       Javis Michael Karinga  
+Vl724                          up             up       95021794-LINKCOM_LIMITED-JIHAN_GROUND_FLR
+Vl728                          up             down     Educational Development Centre
+Vl729                          up             down     Aden Dubow
+Vl730                          up             down     95019010 Region Free Ltd
+Vl731                          up             up       UNICEF Garissa
+Vl733                          up             down     The Milleniun Promise
+Vl734                          up             down     Muhamed Abdi Farah 
+Vl736                          up             down     95030766 : YUSSUF ABDI BARRE
+Vl737                          up             down     Saafi Ltd
+Vl740                          up             up       95018429-Garissa_Dept_of_Health-MOH 
+Vl744                          up             up       95011139_ADESO_Garissa_Office
+Vl745                          up             down     FAFI INTERGRATED DEVELOPMENT  ASSOCIATION GARISSA
+Vl746                          up             up       95042025-ISLAMIC RELIEF -GARISSA
+Vl754                          up             down     AMREF Garissa
+Vl755                          up             down     IRC Garissa Office
+Vl758                          up             down     95023897-MOHAMUD SHEIKH BASHIR
+Vl763                          up             down     Pact Kenya Garissa
+Vl768                          up             down     95016740 Abdinasir Mohamed Abdi
+Vl770                          up             down     95017546_Elmi_Bookshop
+Vl774                          up             down     95026429-FRANCIS OMONDI OTIENO
+Vl776                          up             down     95030406 Boys Town Secondary School
+Vl777                          up             down     95025990-Links Data Centre
+Vl778                          up             down     95028450-GARISSA NURSING HOME LTD
+Vl779                          up             down     95025813-HULUGHO  STORES AND WHOLESALERS LTD
+Vl785                          up             up       95030259-LINKCOM LIMITED
+Vl791                          up             up       95032953-KENYA  RED CROSS-GARISSA
+Vl792                          up             down     95032977-NEP_COLLEGE_OF_HEALTH_SCIENCIS_LIMITED-COMPACT_SERIES
+Vl796                          up             down     95035672 MODERN COAST BUILDERS CO LTD GARRISA
+Vl799                          up             up       95037906-IRC-GARISSA
+Vl1084                         up             down     
+Vl1209                         up             up       
+Vl2338                         up             up       
+Vl3670                         up             up       95024916 MINISTRY OF DEVOLUTION-GARISSA HUDUMA CENTRE
+Vl3719                         up             up       
+Vl3751                         up             up       
+Fa0/2                          up             up       95016591_Naivas Garissa
+Fa0/5                          up             up       CERAGON_FA2500
+Fa0/6                          up             up       GARISSA HUDUMA CENTRE
+Fa0/8                          up             up       JTL GARISSA LAW COURTS
+Fa0/9                          up             up       
+Fa0/10                         up             up       WIMAX 16e PORT SEC_1
+Fa0/11                         up             up       WIMAX 16e PORT SEC_3
+Fa0/13                         up             up       WIMAX 16e PORT SEC_2
+Fa0/15                         up             up       QNQ_TUNNEL
+Fa0/16                         up             up       QNQ_IPRAN_VLANS
+Fa0/20                         up             up       CHASE BANK GARISSA
+Gi0/1                          up             up       TO_EXCH_ATN_7/6/5
+
+>>>>>>>>> End of Output Garissa Exchange Switch_EAST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output General Mathenge Switch_Nairobi West <<<<<<<<<
+Vl10                           up             up       
+Vl101                          up             up       
+Vl105                          up             up       
+Vl602                          up             up       
+Vl604                          up             up       
+Vl606                          up             up       
+Vl608                          up             up       
+Vl612                          up             up       
+Vl613                          up             up       MGT_WIMAX
+Vl617                          up             up       
+Vl712                          up             up       Aristal Properties 
+Vl713                          up             up       Save The Children UK-Somalia
+Vl714                          up             up       NETSOL
+Vl868                          up             up       Wildlife Lodges Hq Backup Link
+Vl1025                         up             up       
+Vl1026                         up             up       
+Vl1032                         up             up       
+Vl1283                         up             up       
+Fa0/5                          up             up       Connection to microwave - Terminating to Tigoni
+Fa0/11                         up             up       Q-in-Q
+Fa0/13                         up             up       VLAN Stripper
+Fa0/20                         up             up       Connection to microwave - Terminating to Karuri
+Fa0/23                         up             up       NGM Connection from Runda,Gachie,kitusuru
+Fa0/24                         up             up       To OSN ====SCC BE555(CV3041)====
+Lo0                            up             up       
+
+>>>>>>>>> End of Output General Mathenge Switch_Nairobi West <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Gilgil AIC Switch_WEST <<<<<<<<<
+Vl100                          up             down     
+Vl604                          up             up       
+Vl613                          up             up       MGT_WIMAX
+Vl717                          up             up       95097374-SGS Gilgil
+Vl718                          up             up       95097356 NDUME LTD
+Vl722                          up             up       95015124_DELAMERE_ESTATE-MICROWAVE
+Vl725                          up             up       95001548 BENJAMIN NIGEL
+Vl726                          up             up       95002803-NINI-Limited
+Vl727                          up             up       95030392 IBRAHIM  MBURU RUGURU
+Vl728                          up             up       95010710-US  Embassy  -Gilgil team house 
+Vl732                          up             up       95019593 ELIZABETH MUMBI
+Vl733                          up             up       95020159-Saidia Children's Home
+Vl735                          up             up       95035323_KOELEL_SEC_SCHOOL
+Vl740                          up             up       95024683-AMOS_BOTTO_MUCHIRI
+Vl742                          up             up       95033995-PETANNS  DRIVING SCHOOL-GILGIL
+Vl744                          up             up       95040755-A-I-BARLOW 
+Vl755                          up             up       95029501-COOLIAGE_KELVIN
+Fa0/1                          up             up       LINK to BST
+Fa0/2                          up             up       Connection to Equity Bank Gilgil
+Fa0/19                         up             up       QNQ_IPRAN_VLANS
+Fa0/20                         up             up       QNQ_Tunnel 
+Fa0/21                         up             up       CONNECTION_IPRAN_ATN
+Fa0/23                         up             up       Delamare_Estate/Gilgil Langas(Pan Africa Trucks Traffic)
+
+>>>>>>>>> End of Output Gilgil AIC Switch_WEST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Githunguri Ridgeways Switch_Nairobi West <<<<<<<<<
+Vl50                           up             up       
+Vl100                          up             up       BS_REMOTE_MNGT
+Vl347                          up             up       
+Vl605                          up             up       
+Vl613                          up             up       MGT_WIMAX
+Vl616                          up             up       
+Vl617                          up             up       
+Vl711                          up             up       Waweru James
+Vl719                          up             up       Fariji Test
+Vl722                          admin down     down     95017220 Bellring Suppliers Ltd
+Vl800                          up             up       
+Vl1033                         up             up       
+Fa0/3                          up             up       95021520-NAIVAS SUPERMARKETS GITHUNGURI
+Fa0/4                          up             up       WIMAX_16E
+Fa0/5                          up             up       95015021-KENYA  POWER AND LIGHTING CO- GITHUNGURI
+Fa0/6                          up             up       Equity Bank Githunguri
+Fa0/7                          up             up       KIAMBU COUNTY GITHUNGURI SUB-COUNTY HOSPITAL
+Fa0/8                          up             up       95024038-KIAMBU COUNTY-KIGUMO SUBCOUNTY HOSPITAL
+Fa0/10                         up             up       95039131 : GOOD FARMLAND
+Fa0/11                         up             up       Q-in-Q in
+Fa0/13                         up             up       VLAN stripper
+Fa0/15                         up             up       95033340_GITHUNGURI  DAIRY FARMERS(FRESHA)- APN 
+Fa0/23                         up             up       CONNECTION TO NGM (172.17.119.202-G0/24)
+Lo0                            up             up       
+
+>>>>>>>>> End of Output Githunguri Ridgeways Switch_Nairobi West <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Githurai Market Switch_NAIROBI WEST <<<<<<<<<
+Vl602                          up             up       INTERNET_IPRAN
+Vl613                          up             up       MGT_WIMAX
+Fa0/2                          up             up       WIMAX 16e PORT SEC_1
+Fa0/3                          up             up       WIMAX 16e PORT SEC_2
+Fa0/4                          up             up       WIMAX 16e PORT SEC_3
+Fa0/9                          up             up       95036388-EQUITY BANK LTD-GITHURAI
+Fa0/19                         up             up       QNQ_IPRAN_VLANS
+Fa0/20                         up             up       QNQ_TUNNEL
+Fa0/21                         up             up       CONNECTION_IPRAN_ATN
+Lo0                            up             up       
+
+>>>>>>>>> End of Output Githurai Market Switch_NAIROBI WEST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Hardy Estate Switch_Nairobi West <<<<<<<<<
+Vl94                           up             up       
+Vl100                          up             up       
+Vl602                          up             up       
+Vl612                          up             up       
+Vl613                          up             up       MGT_WIMAX
+Vl713                          up             up       Alvin_Mathu
+Vl714                          up             up       95017192 David Muba Muthigani
+Vl715                          up             up       EngineerAnzeze
+Vl719                          up             up       SusanMungiira
+Vl721                          up             up       naish
+Vl722                          up             up       Ultra Communication
+Vl723                          up             up       Rob
+Vl724                          up             up       Sohi Gas Lamu
+Vl725                          up             up       Hybrid Solutions EA Ltd
+Vl726                          up             up       95018862_Professional_Clean_Care
+Vl727                          up             up       Peter Ole saikah
+Vl728                          up             up       Water Blue Ltd
+Vl730                          up             up       East African Canvas
+Vl731                          up             up       Mountain rock
+Vl736                          up             up       On safari Ltd
+Vl737                          up             up       360 Microsystems Ltd
+Vl738                          up             up       Colombia Construction Company
+Vl739                          up             up       Bernard Anthony Kamau
+Vl744                          up             up       Societe Internationale De Telecommunications Aeronotiques
+Vl745                          up             up       Gachari
+Vl746                          up             up       Stellamatrix
+Vl748                          up             up       Spread Marketing 
+Vl750                          up             up       Roselyne Mwangi Gichera 
+Vl751                          up             up       Sesa Communication
+Vl753                          up             up       Nicholas Michira Oyaro
+Vl756                          up             up       Sanyati Ltd
+Vl759                          up             up       George Dennis Jackson
+Vl760                          up             up       Andrew James William
+Vl766                          up             up       Kazuhiro Ishikawa
+Vl769                          admin down     down     KWS HQ Back-up 
+Vl772                          up             up       Gosa Farah Lemmy
+Vl773                          up             up       Ngong View Ltd 
+Vl775                          up             up       Johnson Gerald Harry
+Vl777                          up             up       Rock Fellowship Ministries
+Vl779                          up             up       British High Commission - Tamsin Clayton
+Vl780                          up             up       Bernard Mwaura Ndungu
+Vl785                          up             up       Martin Wainaina
+Vl786                          up             up       Catherine Whitecomb 
+Vl787                          up             up       The Business Advisory Group Ltd
+Vl789                          up             up       Krone Networks 
+Vl790                          up             up       Senaca East Africa
+Vl791                          up             up       Steven Bennet Antony
+Vl793                          up             up       Firoz Fakhruddin
+Vl794                          up             up       Joemacs Enterprises 2
+Vl795                          up             up       95011092_Safaricom_Suleman_Zaheed
+Vl799                          up             up       John Dowd Charles
+Vl800                          up             up       East Africa Safari Ventures
+Vl801                          up             up       Firoz_Fakhruddin_Karen
+Vl803                          up             up       Brown Douglas Wesley
+Vl805                          up             up       Fanaka Online-The Smith 
+Vl809                          up             up       Kenya Tourism Federation
+Vl811                          up             up       Ojwang David Ojwang
+Vl814                          up             up       Philip Charles Jack D'olier
+Vl817                          up             up       Impala Glass Industries
+Vl818                          up             up       Francis Xavier Ochieng
+Vl820                          up             up       DHL Supply Chain - Jeremy Haysom
+Vl822                          up             up       Amos Kipyegon Chebon
+Vl825                          up             up       James Gikonyo Miano
+Vl827                          up             up       95001302-DYNAMIC_WORLD_TECHNOLOGY_LTD-DONHOLM
+Vl830                          up             up       Diamond Shield International Ltd
+Vl831                          up             up       95020234-Wilken Ltd
+Vl836                          up             up       95021452-COMPASSION INTERNATIONAL SIP
+Vl2825                         up             up       
+Vl2858                         up             up       
+Vl3929                         up             up       
+Vl3943                         up             up       
+Fa0/2                          up             up       WIMAX 16e PORT SEC_1
+Fa0/3                          up             up       WIMAX 16e PORT SEC_2
+Fa0/4                          up             up       WIMAX 16e PORT SEC_3
+Fa0/5                          up             up       ERICSSON FROM OLE_POLOS
+Fa0/9                          up             up       NAIVAS_NGONG_VET
+Fa0/17                         up             up       CONNECTION_IPRAN_ATN
+Fa0/19                         up             up       QNQ_IPRAN_VLANS
+Fa0/20                         up             up       QNQ_TUNNEL
+Fa0/21                         up             up       
+Fa0/22                         up             up       UPLINK TO RICI-16
+
+>>>>>>>>> End of Output Hardy Estate Switch_Nairobi West <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Hindi Switch_EAST <<<<<<<<<
+Vl100                          up             up       
+Vl105                          up             up       
+Vl601                          up             up       
+Vl602                          up             up       
+Vl613                          up             up       
+Vl616                          up             up       
+Vl617                          up             up       
+Vl700                          up             up       95025771-KIZINGONI  BEACH LTD
+Vl701                          up             up       95038026-LAMU  COUNTY GOVERNMENT-MPEKETONI
+Vl710                          up             up       95032139-ISLAND  TECHNOLOGIES
+Vl712                          up             up       World vision Lamu
+Vl715                          up             up       95029199-YEHU  MICRO FINANCE-MPEKETONI
+Vl737                          up             up       95044898-KIZINGONI BEACH LIMITED-MICROWAVE LINK 2
+Vl738                          up             up       95019740-KIZINGONI_BEACH_LTD
+Vl748                          up             up       95038055-HONGWE SECONDARY SCHOOL
+Vl831                          up             up       95038181-LAMU  TEACHERS SACCO SOCIETY LTD-WITU
+Vl983                          up             up       95045871-DAVID_SHELDRICK WILDLIFE TRUST-LAMU
+Vl1069                         up             up       MANAGEMENT VLAN
+Vl1080                         up             up       
+Vl3878                         up             up       
+Fa0/1                          up             up       Link to Lamu BTS
+Fa0/20                         up             up       NGM Connection to Lamu North/US_NAVY , Mpeketoni,FAZA,DAU
+Fa0/21                         up             up       world vision lamu
+Fa0/22                         up             up       Link to RICI-16 4E1 at HINDI 2288
+Gi0/1                          up             up       TO_MALINDI_SHELLA_Gi0/1/2
+Lo0                            up             up       
+Lo5                            up             up       
+
+>>>>>>>>> End of Output Hindi Switch_EAST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Homabay Sofia Switch_WEST <<<<<<<<<
+Vl1                            up             down     
+Vl200                          up             up       
+Vl601                          up             up       
+Vl604                          up             down     INTERNETCARRIER VLAN ON IPRAN
+Vl612                          up             up       
+Vl613                          up             up       Homa Bay Mgt
+Vl714                          up             up       95024508-MASENO  UNIVERSITY-TOM MBOYA COLLEGE
+Vl716                          up             up       
+Vl720                          up             up       World Vision - Lambwe Internet
+Vl721                          up             down     95020336-CHARLES IBRAHIM OMBIJAH
+Vl722                          up             up       95021176-Patrick Lumumba
+Vl723                          up             up       95020447-Modern Coast-Homabay
+Vl724                          up             up       95020819-KMTC HOMABAY ADMIN BLOCK 
+Vl725                          up             up       95020820-KMTC HOMABAY COMPUTER LAB
+Vl726                          up             up       95020859-HOTEL TWIN TOWERS
+Vl727                          up             up       95023226-Nema-Homabay
+Vl728                          up             up       95023429-ELIZABETH GLAZIER FOUNDATION
+Vl729                          up             up       95021641-HOTEL  STARIDGE LTD
+Vl730                          up             up       95022709-PLAN-INTERNATIONAL-KENYA-HOMABAY
+Vl735                          up             up       95021613_HOMABAY_HARDWARE
+Vl736                          up             up       95042324-ELIZABETH_GLASER PEDIATRIC FOUNDATION-MBITA POC 
+Vl739                          up             up       95020965-OWINO_SAMWEL_NYAUKE
+Vl754                          up             up       95036827-SOFT POINT SERVICES-HOMABAY
+Vl755                          up             up       95033811 Megascope Homabay
+Vl756                          up             up       95029111-MINISTRY  OF HEALTH-MOI TEACHING AND REFERRAL
+Vl757                          up             up       description 95023469-PATHFINDER INTERNATIONAL-KISUMU
+Vl791                          up             down     95028785-HEIFER_INT-HOMABAY
+Vl804                          up             up       95044640-CATHOLIC RELIEF-HOMABAY
+Vl815                          up             up       95042318-ELIZABETH  GLASER PEDIATRIC FOUNDATION-HOMABAY
+Vl870                          up             up       95040402-SDA-LAKE_VICTORIA FIELD
+Vl982                          up             up       95047296-ASSESOS_LIMITED
+Vl988                          up             up       95039051-LIXOS PRINTING PRESS DESIGN BRANDING
+Vl1159                         up             up       95044503-ROYAL FACTORY  LIMITED-HOMABAY
+Fa0/2                          up             up       LINK_TO_EQUITy_HOMABAY
+Fa0/7                          up             up       NHIF_HOMABAY
+Fa0/9                          up             up       CERAGON_FA2500 Sector 2
+Fa0/10                         up             up       Ceragon Sector Red
+Fa0/12                         up             up       Connection to NGM for Ndiru/Ruma
+Fa0/19                         up             up       IPRAN_QNQ_VLAN
+Fa0/20                         up             up       IPRAN_QNQ_TUNNEL == TO RITONGO ASR G0/0/3 ==
+Fa0/21                         up             up       TO_IPRAN_ATN
+Gi0/1                          up             up       ==TO HOMABAYA SOFIA ASR 903 Gi0/0/1==
+Gi0/2                          up             up       =TRAFFIC FROM Ruma,Ogongo,Got_Rabuor  -Homabay sofia Local (DAC GE 10.152.14.134 )
+
+>>>>>>>>> End of Output Homabay Sofia Switch_WEST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Isiolo Bulla Pesa Switch_EAST <<<<<<<<<
+Vl50                           up             down     
+Vl100                          up             down     
+Vl601                          up             up       CARRIER_INTERNET
+Vl606                          up             down     
+Vl613                          up             up       MGT_WIMAX_BS
+Vl617                          up             up       
+Vl701                          up             down     95026852-LARSEN  & TOURBO LIMITED
+Vl703                          up             down     SST_Marabit 
+Vl714                          up             up       95022869-AHMED  MOHAMED ABDULLAHI
+Vl715                          up             down     GreenAcresCommunication
+Vl718                          up             up       ACTION AID INTERNATIONAL KENYA-ISIOLO
+Vl719                          up             down     Xtranet - Kenha Isiolo
+Vl720                          up             down     95013950-Acdi Voca (Ragal Ag)Isiolo
+Vl721                          up             down     Isiolo Development Project
+Vl722                          up             up       AMREF Kenya Isiolo
+Vl724                          up             down     Safaricom Retail Care Desk-Genesis Isiolo
+Vl726                          up             up       ABDI  ABDULLAHI
+Vl727                          up             up       Nothern Galaxy Hotel Ltd
+Vl728                          up             up       Adeso Isiolo 
+Vl729                          up             up       95024063-FOOD FOR THE HUNGRY INTERNATIONAL-ISIOLO
+Vl731                          up             down     95014138-John Mugambi Kirimi
+Vl732                          up             up       95015073 Mocharo Lodge Limited-Business Plus 
+Vl733                          up             down     95014632-Silver_Bells_Isiolo-Business_Plus
+Vl734                          up             up       WorldVision_Isiolo_Internet
+Vl735                          up             up       95019575 Catholic Of Isiolo-Radio Shahidi
+Vl736                          up             up       95021508-County Government Of Isiolo
+Vl737                          up             up       95022890-Catholic Diocese Of Isiolo
+Vl742                          up             up       95024301_MARTIN_MAITIMA_MAMATHI
+Vl743                          up             up       95026281-JARO_MOHAMED_ABDI
+Vl745                          up             down     95025584-AL-FALAH  CHILDRENS HOME
+Vl746                          up             down     95025773-NOOR-TECHNOLOGIES-LTD 
+Vl748                          up             up       95030449-Isiolo County- Governors RESIDENCE
+Vl750                          up             up       95030448-CATHOLIC DIOCESE OF ISIOLO
+Vl752                          up             down     95030647-INTERNATIONAL  NGO SAFETY ORG
+Vl755                          up             down     95038369-ROBIKAN LIMITED-ISIOLO
+Vl756                          up             up       95030950-EWASO NGIRO NORTH RIVERBASIN  DEVELPMENT AUTHORITY
+Vl757                          up             down     95041515 TIYAH GALGALO ALI
+Vl772                          up             up       
+Vl780                          up             down     95030747-JARO_MOHAMMED_ABDI
+Vl781                          up             down     95037761-ROBIKAN  LIMITED-ISIOLO
+Vl785                          up             up       95041560-ISIOLO COUNTY ADMISTRATION
+Vl887                          up             up       95041544-RESORT_CABS SACCO
+Vl1966                         up             down     
+Vl3170                         up             up       NBK ISIOLO
+Vl3304                         up             up       
+Fa0/2                          up             up       WiMAX16e
+Fa0/7                          up             up       CERAGON PTMP BASESTATION
+Fa0/11                         up             up       VLAN_STRIPPER
+Fa0/12                         up             up       QinQ port
+Fa0/15                         up             up       EQUITY_ISIOLO
+Fa0/16                         up             up       Kenha isiolo
+Fa0/20                         up             up       Winlink connection to KWS ISIOLO
+Fa0/24                         up             up       CONNECTION_TO_ATN_PORT_Gig0/2/20
+
+>>>>>>>>> End of Output Isiolo Bulla Pesa Switch_EAST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Jamhuri Switch_NRB <<<<<<<<<
+Vl50                           up             up       IPRAN_TEST_MGT
+Vl100                          up             down     
+Vl602                          up             up       
+Vl613                          up             up       MGT_Wimax
+Fa0/3                          up             up       WIMAX 16e PORT SEC_1
+Fa0/4                          up             up       WIMAX 16e PORT SEC_2
+Fa0/5                          up             up       WIMAX 16e PORT SEC_3
+Fa0/19                         up             up       QNQ_IPRAN_VLANS
+Fa0/20                         up             up       QNQ_TUNNEL
+Fa0/21                         up             up       CONNECTION_IPRAN_ATN
+
+>>>>>>>>> End of Output Jamhuri Switch_NRB <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Jericho Switch_NAIROBI WEST <<<<<<<<<
+Vl1                            up             down     
+Vl602                          up             up       
+Vl613                          up             up       MGT_WIMAX
+Vl617                          up             up       
+Vl712                          down           down     Family Rock Youth Group
+Vl718                          admin down     down     Shephards Group of Companies Ltd
+Fa0/3                          up             up       WIMAX 16e PORT SEC_1
+Fa0/4                          up             up       WIMAX 16e PORT SEC_2
+Fa0/6                          up             up       95003609_NHIF_BURUBURU
+Fa0/8                          up             up       AAR HEALTHCARE BURUBURU
+Fa0/19                         up             up       QNQ_IPRAN_VLANS
+Fa0/20                         up             up       QNQ_TUNNEL
+Fa0/21                         up             up       CONNECTION_IPRAN_ATN
+Lo0                            up             up       
+
+>>>>>>>>> End of Output Jericho Switch_NAIROBI WEST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Jomo Kenyatta Foundation Switch_NRB <<<<<<<<<
+Vl601                          up             up       NEW_IPRAN_INTERNET
+Vl613                          up             up       MGT_WIMAX
+Vl617                          up             up       
+Vl724                          admin down     down     95015015-Reliable Papers Suppliers Ltd-Business Plus
+Vl728                          admin down     down     Supersleek Ltd 
+Vl761                          down           down     Laborex Kenya - Backup Link
+Vl784                          down           down     Naivas HQ Internet Backup Link
+Vl815                          down           down     Easy Mart Supermarkets HQ-Internet
+Fa0/2                          up             up       WIMAX 16e PORT SEC_1
+Fa0/3                          up             up       WIMAX 16e PORT SEC_2
+Fa0/4                          up             up       WIMAX 16e PORT SEC_3
+Fa0/8                          up             up       95038177 - FARGO COURIER LIMITED
+Fa0/19                         up             up       QNQ_IPRAN_VLANS
+Fa0/20                         up             up       QNQ_TUNNEL
+Fa0/21                         up             up       CONNECTION_IPRAN_ATN
+
+>>>>>>>>> End of Output Jomo Kenyatta Foundation Switch_NRB <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Juja Switch_EAST <<<<<<<<<
+Vl50                           up             up       IPRAN MIGRATION TEST
+Vl100                          up             down     
+Vl602                          up             up       Internet Carrier
+Vl604                          up             up       
+Vl613                          up             up       MGT_WIMAX
+Vl617                          up             up       
+Vl700                          up             up       95035748-JOMO KENYATTA UNIVERSITY COLLEGE OF AGRICULTURE &  TECHNOLOGY - INDUSTRIAL TECHNOLOGY PARK
+Vl1180                         up             up       
+Vl3473                         up             down     
+Fa0/1                          up             up       Connection to NGM -172.17.74.202
+Fa0/2                          up             up       95029409-JUJA  PREPARATORY SCHOOL COMPANY
+Fa0/3                          up             up       95033597_EQUITY BANK LTD JUJA
+Fa0/4                          up             up       Connection to Gatundu and Selecta Juja Farm
+Fa0/5                          up             up       Campus connect JKUAT
+Fa0/8                          up             up       95035748 JKUAT INDUSTRIAL
+Fa0/9                          up             up       Connection to JKUAT TELCOM LAB
+Fa0/10                         up             up       WIMAX 16e PORT SEC_1
+Fa0/11                         up             up       WIMAX 16e PORT SEC_2
+Fa0/12                         up             up       WIMAX 16e PORT SEC_3
+Fa0/14                         up             up       95014168_KENYA NUT KIAORA
+Fa0/19                         up             up       VLAN stripper
+Fa0/20                         up             up       QinQ
+Fa0/24                         up             up       Link to IPRAN-ATN-G0/2/19
+Lo0                            up             up       
+
+>>>>>>>>> End of Output Juja Switch_EAST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Kabarnet Exchange Switch_WEST <<<<<<<<<
+Vl319                          up             up       
+Vl604                          up             up       
+Vl613                          up             up       MGT_WIMAX
+Vl617                          up             up       16e 
+Vl712                          up             up       95003021-GOVERNMENT TRAINING INSTITUTE
+Vl714                          up             up       95022218 TALMAK ELECTRONICS-CERAGON
+Vl719                          up             up       Family Health International
+Vl720                          up             up       Mount Kenya University Kabarnet
+Vl721                          up             down     95015791-Safaricom CareDesk-Kabarnet
+Vl728                          up             down     719212581-Kisii University-Kabarnet Campus
+Vl732                          up             up       95020266-Hand-IN-Hand-Kabarnet 
+Vl739                          up             up       95037916-FHI-KABARNET
+Vl1041                         up             down     
+Fa0/2                          up             up       WIMAX 16e PORT SEC_1
+Fa0/5                          up             up       KABARNET EXCHANGE CERAGON HUB
+Fa0/6                          up             up       95005322-NHIF-KABARNET
+Fa0/20                         up             up       IPRAN_QNQ_VLAN
+Fa0/21                         up             up       IPRAN_QNQ_TUNNEL
+Fa0/22                         up             up       KIM_KABARNET
+Fa0/24                         up             up       TO_IPRAN_ATN
+Lo0                            up             up       
+
+>>>>>>>>> End of Output Kabarnet Exchange Switch_WEST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Kajiado Switch_EAST <<<<<<<<<
+Vl1                            up             down     
+Vl50                           up             up       
+Vl612                          up             up       
+Vl613                          up             up       NEW_MGT_WIMAX
+Vl999                          up             up       
+Fa0/7                          up             up       CERAGON_FA2500
+Fa0/8                          up             up       
+Fa0/9                          up             up       UMA_UNIVERSITY
+Fa0/10                         up             up       95021408-MINISTRY OF LANDS-KAJIADO ARDHI HOUSE
+Fa0/11                         up             up       95039148_MASAI TECHNICAL TRAINING
+Fa0/12                         up             up       NAISULA HOLDINGS KAJIANDO
+Fa0/14                         up             up       95045941-SISI COMMUNICATIONS
+Fa0/15                         up             up       95031607-SIDIAN BANK-KAJIADO 
+Fa0/17                         up             up       SEVEN SEAS MOH KAJIADO
+Fa0/19                         up             up       TWYFORD to NGM Umma University
+Fa0/23                         up             up       Connection to Microwave<> IPRAN_KAJIADO_PO
+Fa0/24                         up             up       NGM to athi river
+
+>>>>>>>>> End of Output Kajiado Switch_EAST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Kakamega Amalemba Switch_WEST <<<<<<<<<
+Vl1                            up             down     
+Vl100                          up             down     BTS_Remote MGT
+Vl120                          up             up       
+Vl601                          up             down     INTERNET_CARRIER
+Vl606                          up             down     
+Vl613                          up             up       MGT_WIMAX
+Vl2500                         up             down     
+Fa0/2                          up             up       WIMAX 16e PORT SEC_1
+Fa0/6                          up             up       95028633-KMTC-KAKAMEGA COLLEGE
+Fa0/7                          up             up       95040447 - CRJE EA LTD
+Fa0/18                         up             up       QNQ_IPRAN_VLANS
+Fa0/19                         up             up       QNQ_Tunnel 
+Fa0/23                         up             up       CONNECTION_IPRAN_ATN
+Lo0                            up             up       
+
+>>>>>>>>> End of Output Kakamega Amalemba Switch_WEST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Kakamega KIE Switch_WEST <<<<<<<<<
+Vl122                          up             up       
+Vl243                          up             up       
+Vl338                          up             up       
+Vl345                          up             up       
+Vl601                          up             up       INTERNET_CARRIER
+Vl606                          up             up       
+Vl613                          up             up       MGT_WIMAX
+Vl617                          up             up       16E
+Vl716                          up             up       Jamidas Motel 
+Vl717                          up             up       Kakamega Cyber
+Vl718                          up             up       Rural Development
+Vl720                          up             up       Computer Action Networks Kakamega
+Vl721                          up             up       Felix Malingu
+Vl723                          up             up       CAD Motors
+Vl725                          up             up       Fly 540 Kakamega 
+Vl730                          up             up       Vester_Guard
+Vl731                          up             up       Fanaka Online-Wadadia
+Vl733                          up             up       Fintrac Ltd Kakamega
+Vl737                          up             up       Meridian Medical Centre Kakamega
+Vl742                          up             up       Kakamega Sports Club
+Vl744                          up             up       95013874 Safaricom-Retail Care Desk Prestige Mobile Kakamega
+Vl745                          admin down     down     95016211-Futures Group-Kakamega Business Plus
+Vl1986                         up             up       
+Vl2037                         up             up       
+Vl3403                         up             up       
+Vl3619                         up             up       
+Fa0/3                          up             up       KAKAMEGA KIE CERAGON HUB
+Fa0/5                          up             up       WIMAX 16e PORT SEC_1
+Fa0/6                          up             up       WIMAX 16e PORT SEC_2
+Fa0/7                          up             up       WIMAX 16e PORT SEC_3
+Fa0/18                         up             up       QNQ_IPRAN_VLANS
+Fa0/19                         up             up       QNQ_Tunnel 
+Fa0/22                         up             up       Connection to Eclipse - KAKAMEGA MILIMANI -
+Fa0/23                         up             up       CONNECTION_IPRAN_ATN
+Lo0                            up             up       
+
+>>>>>>>>> End of Output Kakamega KIE Switch_WEST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Kakamega Milimani Switch_WEST <<<<<<<<<
+Vl1                            up             down     
+Vl601                          up             up       INTERNET_CARRIER
+Vl612                          up             up       Bespoke_Management
+Vl613                          up             up       MGT_WIMAX
+Vl703                          up             up       95040369-MUDETE FACTORY  TEA GROWERS SACCO SOCIETY
+Fa0/8                          up             up       95040369 : MUDETE FACTORY  TEA GROWERS SACCO SOCIETY
+Fa0/10                         up             up       95029037-KAKAMEGA GEN. HOSPITAL
+Gi0/1                          up             up       KAKAMEGA_MILIMANI_ASR903
+
+>>>>>>>>> End of Output Kakamega Milimani Switch_WEST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Kakuma Switch_WEST <<<<<<<<<
+Vl335                          up             up       AAHI_Kakuma-95033614
+Vl602                          up             up       
+Vl606                          up             down     MGT_VLAN_ASR903
+Vl612                          up             up       
+Vl613                          up             up       MGT_WIMAX
+Vl617                          up             up       
+Vl702                          up             down     95029485-JOYCE_LOBUIN
+Vl703                          up             up       95022538-LUCKY_PETROL_STATION
+Vl709                          up             down     95021174-REFUGEE-CONSORTIUM OF KENYA-KAKUMA
+Vl711                          up             up       700380935 Handicap International-Kakuma
+Vl712                          up             down     Awil Ogle
+Vl713                          up             up       95095428_Film_Aid_Kakuma
+Vl714                          up             down     95095725-Jesuit Refugee Service
+Vl715                          up             down     GTZ Kakuma 
+Vl717                          up             up       NCCK Kakuma 
+Vl718                          up             down     Ali Mohamed Ahmed
+Vl719                          up             down     UNHCR_Kakuma
+Vl721                          up             up       95006080 International Rescue Committee - Kakuma
+Vl724                          up             up       Salesians of Don Bosco Kakuma 
+Vl726                          up             down     Immigration_Kakuma Abdi Abdullahi Ali
+Vl727                          up             down     Norwegian Refugee Council-Kakuma 
+Vl728                          up             down     95012506-NORWEGIAN_REFUGEE_COUNCIL_2-KAKUMA
+Vl729                          up             up       95023460-LIQUID_TELECOM_LTD-KAKUMA
+Vl732                          up             down     95017102 Akiporo Bookshop
+Vl734                          up             up       95042632-SWISSCONTACT  LIMITED 
+Vl739                          up             up       95019438-WORLD_VISION-KAKUMA
+Vl740                          up             down     95019564_Silale_Edupu_Calistus-Energy_Centre
+Vl742                          up             down     95018955-Bluepower Construction Company Limited
+Vl743                          up             down     95019565-Silale Edupu Calistus-Hong Kong Rd
+Vl747                          up             down     95023183-ACTION_AFRICA_HELP_KENYA-LODWAR
+Vl753                          up             down     95023605-GIZ_SIF_1<UNHCR_COMPOUND>
+Vl755                          up             down     95029416-ASAD ALI AHAMED
+Vl756                          up             down     95025763-ARTHUR  NDUNGU NGUGI
+Vl757                          up             up       95029446-ASSOCIATION FOR AID AND RELIEF (AAR) JAPAN
+Vl758                          up             up       95029484-SWISSCONTACT LIMITED
+Vl759                          up             up       95029524-SAFARICOM LTD MORNEAU SHEPELL
+Vl760                          up             up       95029526-SAFARICOM LTD KAKUMA SECONDARY
+Vl761                          up             up       95029527-SAFARICOM LTD JC:HEM
+Vl762                          up             up       95029538-JESUIT REFUGEE SERVICE - KAKUMA
+Vl764                          up             down     95029654 -PAUL KINYANJUI GITHIRE
+Vl765                          up             up       95042651-CENTRE FOR VICTIMS OF TORTURE
+Vl767                          up             up       95046342-FILM AID KENYA-KAKUMA TOWN
+Vl820                          up             up       95026258-KAKUMA  BOOKS & STATIONERY
+Vl830                          up             up       95029528_LOTUS_KENYA_ACTION_FOR_DEVELOPMENT ORGANIZATION
+Vl840                          up             up       95029525-SAFARICOM_LTD_ANJELINA_JOLIE_BOARDING_SCHOOL
+Vl843                          up             up       95030373-SAFARICOM LIMITED GREENLIGHT SCHOOL
+Vl850                          up             up       95034121 THE LUTHERAN WORLD FEDERATION -TEACHER RESOURCE CENTRE-KAKUMA
+Vl851                          up             down     95040612-JESUIT  REFUGEE SERVICE 
+Vl852                          up             up       95040793-CHONGQING I. C.C
+Vl853                          up             up       95049718-NORWEGIAN REFUGEE COUNCIL-KAKUMA 2 CERAGON
+Vl877                          up             up       95038721-BLISS_GVS_HEALTH CARE LIMITED-KAKUMA
+Vl883                          up             up       95037528- IRC-KAKUMA CLINIC 6
+Vl2801                         up             up       
+Fa0/10                         up             up       WIMAX 16e PORT
+Fa0/19                         up             up       QNQ_IPRAN_VLANS
+Fa0/20                         up             up       QNQ_Tunnel 
+Gi0/1                          up             up       KAKUMA_CERAGON/95023460_LIQUID TELECOM  LTD-KAKUMA MICROWAVE TO MOVE TO Gi0/1
+Gi0/2                          up             up       CONNECTION_TO_IPRAN_KAPENGURIA_ATN_GI0/2/24
+Lo0                            up             up       
+
+>>>>>>>>> End of Output Kakuma Switch_WEST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Kangema Switch_EAST <<<<<<<<<
+Vl100                          up             down     Wimax Remote Management
+Vl601                          up             up       NEW_INTERNET_CARRIER
+Vl612                          up             up       
+Vl613                          up             up       MGT_WIMAX
+Vl712                          up             down     Francis Kiragu Kagome 
+Vl713                          up             down     Charles Kihoro Kariuki
+Vl714                          up             down     Vanguard Ventures Ltd
+Vl715                          up             down     MOE Githima Secondary School
+Vl716                          up             down     Jajanet Communication System Ltd
+Vl717                          up             up       95012976 Aspendos Dairy Ltd Kangema
+Vl718                          up             up       95017632-WEBLINK_PAWA_COMPUTERS
+Vl721                          up             down     95024261-FIRST_FLOOR_ENTERPRISES
+Vl728                          up             down     95036826 : JOHN MAINA MWANGI
+Fa0/2                          up             up       95037088_SAFARICOM LTD-RO KANGEMA CAREDESK
+Fa0/3                          up             up       EQUITY_KANGEMA
+Fa0/4                          up             up       Kangema_WiMAX_16e
+Fa0/5                          up             up       KANGEMA_CERAGON HUB
+Fa0/20                         down           down     NGM back up
+Fa0/21                         up             up       QnQ_Vlan_Stripper
+Fa0/22                         up             up       QnQ_Tunnel
+Fa0/23                         up             up       IPRAN_CONNECTION
+
+>>>>>>>>> End of Output Kangema Switch_EAST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Kapsabet Singarwa Switch_WEST <<<<<<<<<
+Vl604                          up             up       
+Vl612                          up             up       
+Vl613                          up             up       
+Vl704                          up             up       95041802-KTDA CHEBUT INTERNET
+Vl711                          up             up       Nyayo Tea Zones - Kipchabo Tea Factory
+Vl713                          up             up       95032189-BLISS GVS HEALTH CARE-KAPSABET
+Vl714                          up             up       95022395-PREMIER_KENYA_LTD_KAPSABET_BRANCH
+Vl720                          up             up       95023465-Hekima Sacco-Kapsabet
+Vl730                          up             up       95029983-STEVE  NICE HYDE PARK
+Vl731                          up             up       95029505-RUMARCO TRADERS
+Vl732                          up             up       95041807-KTDA-KAPTUMO INTERNET
+Vl800                          up             up       95033809-MEGASCOPE_HEALTHCARE (K) LIMITED-KAPSABET REFERAL COUNTY HOS
+Vl1041                         up             down     
+Vl1152                         up             up       95042954-NANDI COUNTY ASSEMBLY
+Fa0/2                          up             up       NANDI HEKIMA SACCO
+Fa0/11                         up             up       CERAGON_FA2500
+Fa0/14                         up             up       KTDA_KAPTUMO
+Fa0/18                         up             up       QNQ_IPRAN_VLANS
+Fa0/19                         up             up       QNQ_Tunnel
+Fa0/20                         up             up       CONNECTION_IPRAN_ATN
+Lo0                            up             up       
+
+>>>>>>>>> End of Output Kapsabet Singarwa Switch_WEST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Karatina Itiati Switch_EAST <<<<<<<<<
+Vl1                            up             down     
+Vl612                          up             up       
+Vl1074                         up             up       
+Vl3575                         up             up       
+Vl3826                         up             up       
+Fa0/2                          up             up       ITIATI cAMPUS
+Fa0/3                          up             up       SERENA_MOUNTAIN_LODGE
+Fa0/24                         up             up       LINK_KARATINA_TOWN
+Lo0                            up             up       
+
+>>>>>>>>> End of Output Karatina Itiati Switch_EAST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Karatina Town Switch_EAST <<<<<<<<<
+Vl50                           up             up       IPRAN test
+Vl105                          up             down     
+Vl312                          up             up       
+Vl500                          up             down     
+Vl601                          up             up       NEW_INTERNET_CARRIER
+Vl612                          up             up       
+Vl613                          up             up       MGT_WIMAX
+Vl616                          up             up       
+Vl711                          up             down     EABL Farmland Karatina
+Vl715                          up             down     Mathira East District Treasury
+Vl718                          up             down     Grand Paints Ltd Karatina
+Vl719                          up             up       TPS Serena Mountain Lodge
+Vl721                          up             down     Moi university karatina
+Vl727                          up             down     95019436 Belfast Agencies
+Vl835                          up             up       95030915 JOYCE MAGONDU KARATINA
+Vl970                          up             down     
+Vl997                          up             down     
+Vl999                          up             down     
+Vl1073                         up             up       
+Vl1748                         up             up       
+Vl1756                         up             up       
+Vl2366                         up             down     
+Vl3213                         up             up       
+Vl3221                         up             up       
+Vl3287                         up             up       
+Vl3542                         up             up       
+Vl3575                         up             up       
+Vl3578                         up             up       
+Vl3754                         up             down     
+Vl3826                         up             up       
+Vl3827                         up             up       
+Fa0/4                          up             up       Karatina university town campus winlink
+Fa0/5                          up             up       Equity karatina winlink
+Fa0/6                          up             up       WIMAX 16e PORT SEC_1
+Fa0/7                          up             up       WIMAX 16e PORT SEC_2
+Fa0/9                          up             up       NGM to ITIATI SWITCH and KENET Karatina Main Itiati
+Fa0/15                         up             up       NHIF Karatina
+Fa0/17                         up             up       KTDA_RAGATI, KTDA_NDIMA,KTDA_MUNUNGA
+Fa0/18                         up             up       95012061-GM  KARIUKI HARDWARE HQ-BACKHAUL 
+Fa0/19                         up             up       VLAN_STRIPPER
+Fa0/20                         up             up       QinQ_VLAN
+Fa0/21                         up             up       Link_Kenet_Karatina_RiverBank_Campus
+Fa0/22                         up             up       IPRAN CONNECTION TO PTN Gig0/1/5
+Fa0/24                         up             up       CONNECTION to ECLIPSE 5.37 PORT 2
+Lo0                            up             up       
+
+>>>>>>>>> End of Output Karatina Town Switch_EAST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Karen JTL Switch_Nairobi West <<<<<<<<<
+Vl605                          up             down     
+Vl612                          up             up       Bespoke MGT
+Vl613                          up             up       MGT_WIMAX
+Vl617                          up             up       
+Fa0/4                          up             up       WIMAX 16e PORT SEC_1
+Fa0/5                          up             up       WIMAX 16e PORT SEC_2
+Fa0/20                         up             up       QnQ
+Fa0/21                         up             up       QnQ_Tunnel
+Fa0/22                         up             up       Ericsson Link to Karen 39
+Lo0                            up             up       
+
+>>>>>>>>> End of Output Karen JTL Switch_Nairobi West <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Karen Light Academy Switch_NRB <<<<<<<<<
+Vl499                          up             up       
+Vl602                          up             up       
+Vl613                          up             up       MGT_Wimax
+Fa0/1                          up             up       WIMAX 16e PORT SEC_1
+Fa0/3                          up             up       WIMAX 16e PORT SEC_3
+Fa0/19                         up             up       QNQ_IPRAN_VLANS
+Fa0/20                         up             up       QNQ_TUNNEL
+Fa0/21                         up             up       CONNECTION_IPRAN_ATN
+
+>>>>>>>>> End of Output Karen Light Academy Switch_NRB <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Karen Switch_Nairobi West <<<<<<<<<
+Vl602                          up             up       INTERNET
+Vl613                          up             up       MGT_WIMAX
+Vl617                          up             up       
+Fa0/2                          up             up       WIMAX_16E_SECTOR_1
+Fa0/3                          up             up       WIMAX_16E_SECTOR_2
+Fa0/4                          up             up       WIMAX_16E_SECTOR_3
+Fa0/19                         up             up       QNQ_IPRAN_VLANS
+Fa0/20                         up             up       QNQ_TUNNEL
+Fa0/21                         up             up       CONNECTION_IPRAN_ATN
+
+>>>>>>>>> End of Output Karen Switch_Nairobi West <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output KAREN_HUB_CORE_SWITCH.safaricom.net <<<<<<<<<
+Te1/1/7                        up             up       ==JTL_KAREN_HUB_HANDOVER==
+Te1/1/15                       up             up       ####LINK TO UCS PORT 2####
+Te1/2/2                        up             up       ===== KHUB-ASW-G02 ====[Ten 1/1/3]
+Te1/2/3                        up             up       ===== KHUB-ASW-UG03 ====[Ten 1/1/3]
+Te1/2/4                        up             up       ===== KHUB-ASW-102 ====[Ten 1/1/3] 
+Te1/2/5                        up             up       ===== KHUB-ASW--G01  ====[Ten 1/1/3]
+Te1/2/6                        up             up       ===== KHUB-ASW-UG02 ====[Ten 1/1/3]
+Te1/2/7                        up             up       ===== KHUB-ASW-UG01 ====[Ten 1/1/3]
+Te1/2/8                        up             up       MERAKI_01
+Te1/2/9                        up             up       ===== KHUB-ASW-UG04  ====[Ten 1/1/3]
+Te1/2/10                       up             up       MERAKI_01
+Te1/2/11                       up             up       ===== KHUB-ASW-G04 ====[Ten 1/1/3]
+Te1/2/12                       up             up       ===== KHUB-ASW-G03 ====[Ten 1/1/3]
+Te1/2/13                       up             up       ==== KHUB-ASW-103 ==== [Ten 1/1/3]
+Te1/2/15                       up             up       ===== KHUB-ASW-101 ====[Ten 1/1/3]
+Te1/5/1                        up             up       
+Te1/5/2                        up             up       
+Te1/5/14                       up             up       KHUB_POWER_MANAGEMENT_VLAN
+Te1/5/15                       up             up       PARKING_ENTRY_MANAGEMENT_VLAN_ENTRY
+Te1/5/16                       up             up       PARKING_MANAGEMENT_EXIT_VLAN
+Te2/1/1                        up             up       link to KAREN_HUB_EBT_ASR1002_PE1 GigabitEthernet0/0/1
+Te2/1/3                        up             up       MERAKI_02 MOD 2
+Te2/1/5                        up             up       MERAKI_02 MOD 1
+Te2/1/15                       up             up       ####LINK TO UCS PORT 1####
+Te2/2/11                       up             up       Hoggers Ltd-The Karen Hub
+Te2/5/1                        up             up       
+Te2/5/2                        up             up       
+Lo0                            up             up       
+Lo1                            up             up       
+Po1                            up             up       link to KAREN_HUB_EBT_ASR1002_PE1 [ Ge0/0/0 & Ge0/0/1 ]
+Po10                           up             up       
+Po20                           up             up       
+Vl5                            up             up       
+Vl610                          up             up       KHUB-CSW-01
+Vl1200                         up             up       
+
+>>>>>>>>> End of Output KAREN_HUB_CORE_SWITCH.safaricom.net <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output KAREN_HUB_EBT_ASR1002_PE1.safaricom.net <<<<<<<<<
+Gi0/0/1                        up             up       KAREN_HUB_6880_SW_02 TenGigabitEthernet2/1/1
+Gi0/0/2                        up             up       link to KAREN_MWITU
+Gi0/0/2.1211                   up             up       TO_GOSPEL_VIA_MWITU
+Gi0/0/3                        up             up       link to KAREN_39
+Gi0/0/3.1211                   up             up       TO_SCC_NGN_VIA_KAREN_39
+BD610                          up             up       KHUB_SWITCHES_MANAGEMENT_VLAN
+BD611                          up             up       KAREN_HUB_APS_SUBNET_01
+BD612                          up             up       KAREN_HUB_APS_SUBNET_02
+BD614                          up             up       KHUB_UCS_MANAGEMENT_2_VLAN
+BD700                          up             up       95024572-THE HUB KAREN - FREE WI-FI
+BD701                          up             up       95024575 BROLL/AZALEA HUB MANAGEMENT OFFICE
+BD702                          up             up       95022794-Banana Box Co.Ltd-The Hub
+BD703                          up             up       95024659-MIND QUEST LTD 
+BD705                          up             up       95025417-WIDE SHOE COLLECTION-FFB 
+BD706                          up             up       95022816-AZIEL PROJECT AND CONSTRUCTION MGT
+BD707                          up             up       95024673-LEGACY FOREX BUREAU 
+BD708                          up             up       95026024-AVA PHARMACY LTD
+BD709                          up             up       95024660-THE HOME STUFF
+BD711                          up             up       95026467 CHAPA COPY -JOSEPH WAHOME MUTA
+BD712                          up             up       95025478-INSPIRATION  AFRICA LIMITED-THE HUB KAREN
+BD713                          up             up       95026213-ELIAS LIMITED
+BD714                          up             up       95026227-TRAVEL CORPORATION LIMITED 
+BD716                          up             up       95026810-ESSAJEE CREATIONS & DESIGNS LTD
+BD717                          up             up       95026863-THE  HUB KAREN MANANGEMENT CO. LTD-PARKING
+BD718                          up             up       95026792-CAPRAIA LTD (LA CASCINA) - THE HUB
+BD719                          up             up       95027334-TOP TIME SHOP
+BD720                          up             up       95026316-ELITE  COMPUTERS LTD
+BD721                          up             up       95026862-THE HUB KAREN MANANGEMENT CO. LTD-CONTROL ROOM
+BD722                          up             up       95031445-PALACINA HOTEL- THE KAREN HUB
+BD723                          up             up       95025658-EAGLE PEAK-THE HUB
+BD725                          up             up       95031553-HOGGERS LTD-THE KAREN HUB
+BD726                          up             up       95032406-KUKU FOODS KENYA LTD-THE KAREN HUB
+BD727                          up             up       95032413-BATELEUR LIMITED-PICAZZO RESTAURANT THE HUB KAREN MALL
+BD728                          up             up       95025775-FUNSCAPES  LTD
+BD729                          up             up       95025772-PUTALI  LTD THE HUB KAREN
+BD730                          up             up       95032481-WINES OF THE WORLD-THE KAREN HUB
+BD731                          up             up       95025933-SANDTON  INTL / PAM GOLDING
+BD732                          up             up       95032624-Pink Skink Ltd
+BD733                          up             up       95025964-EXTREME STYLING STUDIO LIMITED-THE HUB KAREN 
+BD734                          up             up       95033170-AFGHAN  HOUSE-THE HUB KAREN 
+BD735                          up             up       95034766-TAMARIND MANAGEMENT-THE HUB 
+BD737                          up             up       95034835-PREMIER DAY SPA AND  BOUTIQUE ENTERPRISES LTD
+BD738                          up             up       95033678-NAS  AIRPORT SERVICES LTD-THE HUB INTERNET
+BD740                          up             up       95035099 CALLA LILY LTD
+BD741                          up             up       95036389-VIVO ACTIVE WEAR
+BD744                          up             up       95036972 CONCEPT HOLDING / PUBGRAB
+BD745                          up             up       95034139-DASH CAM / CONCEPT HOLDING
+BD746                          up             up       95028725-THE BIKE RACK LIMITED-THE HUB KAREN
+BD747                          up             up       95035072-ITUHSN  LTD-THE HUB 
+BD748                          up             up       95035347 AMBER MEDICAL CLINICS LTD
+BD749                          up             up       95037000- WING IT
+BD750                          up             up       95037794-GALAXY MOBILE ACCESORIES LTD
+BD751                          up             up       95038997-DICHOTOMY ENTERPRISE LIMITED
+BD752                          up             up       95038252-SANDSTORM  AFRICA LTD-THE HUB KAREN
+BD753                          up             up       95040494-AFRICA LIFESTYLE BRANDS LTD
+BD754                          up             up       95040112-LC WAIKIKI RETAIL KE LIMITED-THE HUB
+BD755                          up             up       95043066-CARD GROUP EAST AFRICA LTD
+BD756                          up             up       95043128-DECATHLON SPORTS KENYA LTD
+BD759                          up             up       205160393-CARD GROUP EAST AFRICA LTD
+BD760                          up             up       95044572-EXECUTIVE WORLD LTD-THE HUB
+BD761                          up             up       95047508 PALACINA INTERIORS LTD-KAREN FIBRE
+BD762                          up             up       95046970 FRENCH BEAUTY
+BD765                          up             up       95049219  LAN ZHOU RESTAURANT-FFB 5
+BD807                          up             up       95037333-DICHOTOMY_ENTERPRISES
+BD808                          up             up       95037432 KACHE LTD-THE HUB
+BD811                          up             up       95037421-LUSCIOUS_TOUCH_LTD
+BD816                          up             up       95038202-ARTCAFFE-THE_HUB_KAREN
+BD818                          up             up       95044355 KINGSBURY GROUP LIMITED
+BD851                          up             up       95045866_MINISO_LIFESTYLE LTD
+BD933                          up             up       95042070_DECATHLON_SPORT KENYA
+BD1201                         up             up       95022812-CBA-KAREN HUB
+BD2000                         up             up       95035527-NAS AIRPORT SERVICES LTD- THE HUB
+BD3501                         up             up       95024495-Deacons (K) Ltd-Karen Hub
+BD3502                         up             up       95025444-TAMARIND MANAGEMENT-KAREN HUB
+BD3503                         up             up       95025458-OPTICA-THE HUB KAREN
+BD3505                         up             up       95025841-HEALTY  U TWO THOUSAND LIMITED-THE HUB KAREN
+BD3506                         up             up       95036143 PAYTECH LIMITED-THE KAREN HUB
+BD3507                         up             up       95034421 BASCO PRODUCTS K LTD-THE HUB KAREN-PRIMARY
+BD3510                         up             up       95024675-FURNITURE  PALACE INT . K LTD KAREN HUB
+BD3511                         up             up       95026101-CHASE  BANK KENYA LTD-THE HUB KAREN PRIMARY
+BD3514                         up             up       95027308-CFC STANBIC BANK LTD- KAREN HUB PRIMARY
+BD3515                         up             up       95031486-ARTCAFFE - KAREN HUB 
+BD3517                         up             up       95040502-GOKALS LTD-THE HUB
+BD3555                         up             up       95034576 : WINES  OF THE WORLD-THE HUB KAREN 
+Lo0                            up             up       KAREN_HUB_EBT_ASR1002_PE1_loop0
+Lo601                          up             up       NEW_INTERNET_CARRIER
+Po1                            up             up       ** CONNECTION TO KAREN AGG SW - 172.17.125.1 **
+pw100001                       up             up       
+pw100002                       up             up       
+pw100003                       up             up       
+pw100004                       up             up       
+pw100005                       up             up       
+pw100006                       up             up       
+pw100007                       up             up       
+pw100008                       up             up       
+pw100009                       up             up       
+pw100010                       up             up       
+pw100011                       up             up       
+pw100012                       up             up       
+pw100013                       up             up       
+pw100014                       up             up       
+pw100015                       up             up       
+pw100016                       up             up       
+pw100017                       up             up       
+pw100018                       up             up       
+pw100019                       up             up       
+
+>>>>>>>>> End of Output KAREN_HUB_EBT_ASR1002_PE1.safaricom.net <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output KAREN_HUB-ASW-102 <<<<<<<<<
+Vl610                          up             up       KHUB-ASW-102
+Vl825                          up             up       
+Gi1/0/19                       up             up       95038202_ARTCAFE KAREN HUB
+Gi1/0/21                       up             up       95024500_AK-TEXT_BOOK_CENTRE_KAREN_HUB
+Gi1/0/23                       up             up       95026942-Jamii Telekom Legacy Forex Bureau ltd Karen Hub
+Gi1/0/25                       up             up       95026118-AK_LTD_MADO_LTD
+Gi1/0/27                       up             up       Artcaffe Karen Hub MPLS
+Gi1/0/29                       up             up       Artcaffe Karen Hub
+Gi1/0/30                       up             up       Parking_Paypoint_Outside_Art_Cafe
+Te1/1/3                        up             up       KAREN_HUB_CORE_SWITCH === [Ten 1/2/4]
+
+>>>>>>>>> End of Output KAREN_HUB-ASW-102 <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output KAREN_HUB-ASW-103 <<<<<<<<<
+Vl610                          up             up       Management
+Vl1201                         up             up       
+Gi1/0/1                        up             up       95022812-CBA-KAREN HUB
+Gi1/0/2                        up             up       95035520 CBA_HUB_KAREN_ATM
+Gi1/0/5                        up             up       95027308-CFC STANBIC-KAREN HUB PRIMARY
+Gi1/0/6                        up             up       AK CFC Karen Hub
+Gi1/0/9                        up             up       95026927-ACCESS Kenya - DTB<>Karen Hub Link 2 
+Gi1/0/13                       up             up       MTN_Business_Central_MGT_Office
+Gi1/0/20                       up             up       ESSAJEE CREATIONS & DESIGNS LIMITED
+Te1/1/3                        up             up       ==== KAREN_HUB_CORE_SWITCH ==== [Ten 1/2/13]
+
+>>>>>>>>> End of Output KAREN_HUB-ASW-103 <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output KAREN_HUB-ASW-G01 <<<<<<<<<
+Vl610                          up             up       KHUB-ASW-G01
+Gi1/0/1                        up             up       95026213-ELIAS LIMITED
+Gi1/0/3                        up             up       95022794-BANANA BOX CO.LTD-THE HUB
+Gi1/0/5                        up             up       95038252-SANDSTORM  AFRICA LTD-THE HUB KAREN
+Gi1/0/9                        up             up       95026227-TRAVEL-CORP-LTD
+Gi1/0/11                       up             up       95032624-Pink Skink Ltd
+Gi1/0/14                       up             up       95031445-PALACINA HOTEL- THE KAREN HUB
+Gi1/0/15                       up             up       95024660-THE HOME STUFF
+Gi1/0/17                       up             up       Hoggers Ltd-The Karen Hub
+Gi1/0/18                       up             up       Hoggers Ltd-The Karen Hub
+Gi1/0/19                       up             up       95025658-EAGLE  PEAK LTD-THE HUB KAREN 
+Gi1/0/21                       up             up       TAMARIND MANAGEMENT-THE HUB 
+Gi1/0/22                       up             up       95034766-TAMARIND MANAGEMENT-THE HUB 
+Gi1/0/23                       up             up       GOKALS LTD - THE HUB
+Gi1/0/26                       up             up       CHAPA COPY
+Gi1/0/32                       up             up       95026115-KENYA  DATA NETWORKS- KNIGHT FRANK THE HUB KAREN 
+Gi1/0/36                       up             up       95027133-Liquid Telecom-Yana Tyres Karen Hub
+Gi1/0/38                       up             up       95027221-Liquid Telecom-Optica-The Hub
+Gi1/0/39                       up             up       AP_Gig 1/0/39
+Gi1/0/40                       up             up       Access_Points
+Gi1/0/46                       up             up       PARKING MANAGEMENT
+Gi1/0/48                       up             up       KHUB_POWER_MANAGEMENT_VLAN
+Te1/1/3                        up             up       link to KHUB-CSW-01_Ten 1/2/5
+
+>>>>>>>>> End of Output KAREN_HUB-ASW-G01 <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output KAREN_HUB-ASW-G02 <<<<<<<<<
+Vl610                          up             up       KHUB-ASW-G02
+Gi1/0/3                        up             up       95037421-LUSCIOUS_TOUCH_LTD
+Gi1/0/5                        up             up       95032481-WINES-OF-THE-WORLD
+Gi1/0/6                        up             up       95034576-WINES_OF_THE_WORLD-THE_HUB_KAREN 
+Gi1/0/11                       up             up       95026792-CAPRAIA LTD (LA CASCINA) - THE HUB
+Gi1/0/15                       up             up       Access_Point
+Gi1/0/33                       up             up       95035520 CBA_HUB_KAREN_ATM
+Gi1/0/42                       up             up       
+Te1/1/3                        up             up       LINK_TO_KHUB-CSW-01_Ten 1/2/2
+
+>>>>>>>>> End of Output KAREN_HUB-ASW-G02 <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output KAREN_HUB-ASW-G03 <<<<<<<<<
+Vl610                          up             up       
+Vl700                          up             up       
+Gi1/0/11                       up             up       UCS_UPLINK
+Gi1/0/47                       up             up       
+Gi1/0/48                       up             up       
+Te1/1/3                        up             up       === KAREN_HUB_CORE_SWITCH == [Ten 1/1/11]
+
+>>>>>>>>> End of Output KAREN_HUB-ASW-G03 <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output KAREN_HUB-ASW-G04 <<<<<<<<<
+Vl610                          up             up       KHUB-ASW-G04
+Vl611                          up             up       AP_1
+Vl612                          up             up       AP_2
+Gi1/0/8                        up             up       95049219_LAN_ZHOU_RESTAURANT_FFB 5
+Gi1/0/9                        up             up       205160393-CARD GROUP
+Gi1/0/11                       up             up       95026316-ELITE  COMPUTERS LTD
+Gi1/0/13                       up             up       95026024-AVA PHARMACY LTD 
+Gi1/0/15                       up             up       95025933-SANDTON  INTL / PAM GOLDING
+Gi1/0/19                       up             up       95025478-INSPIRATION  AFRICA LIMITED-THE HUB KAREN
+Gi1/0/23                       up             up       95024495-DEACONS-KAREN_HUB
+Gi1/0/31                       up             up       95034835-PREMIER DAY SPA AND  BOUTIQUE ENTERPRISES LIMITED
+Gi1/0/34                       up             up       95027334-TOP TIME SHOP
+Gi1/0/35                       up             up       95024659-MIND QUEST LTD
+Gi1/0/37                       up             up       95025841-HEALTY  U TWO THOUSAND LIMITED-THE HUB KAREN
+Gi1/0/38                       up             down     AP_GRND_Gig 1/0/38
+Gi1/0/40                       up             up       AP_GRND_Gig 1/0/40
+Gi1/0/41                       up             up       AP_88:15:44:f0:fc:80
+Gi1/0/42                       up             up       PARKING_MANAGEMENT_VLAN
+Gi1/0/47                       up             up       95036143 : PAYTECH  LIMITED-THE KAREN HUB LOOP
+Gi1/0/48                       up             up       PARKING_MANAGEMENT_VLAN
+Te1/1/3                        up             up       link to KHUB-CSW-01.hub_Ten 1/2/11
+
+>>>>>>>>> End of Output KAREN_HUB-ASW-G04 <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output KAREN_HUB-ASW-UG01 <<<<<<<<<
+Vl610                          up             up       KHUB-ASW-UG01
+Gi1/0/2                        up             up       95025775-FUNSCAPES  LTD
+Gi1/0/8                        up             up       95024674-FURNITURE PALACE INT.K LTD KHUB
+Gi1/0/11                       up             up       AP_Core G1/0/11
+Gi1/0/12                       up             up       
+Gi1/0/13                       up             up       
+Gi1/0/20                       up             up       95024575-AZALEA INVESTMENTS LTD
+Gi1/0/44                       up             up       95026862-THE HUB KAREN MANANGEMENT CO. LTD-CONTROL ROOM
+Gi1/0/46                       up             up       KHUB_POWER_MANAGEMENT_VLAN
+Gi1/0/47                       up             up       
+Gi1/0/48                       up             up       
+Gi1/1/2                        up             up       95040112-LC WAIKIKI RETAIL KE LIMITED-THE HUB
+Te1/1/3                        up             up       LINK_TO_KHUB-CSW-01_Ten 1/2/6 
+
+>>>>>>>>> End of Output KAREN_HUB-ASW-UG01 <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output KAREN_HUB-ASW-UG03 <<<<<<<<<
+Vl610                          up             up       KHUB-ASW-UG03
+Gi1/0/12                       up             up       
+Gi1/0/14                       up             up       
+Gi1/0/33                       up             up       95038997-DICHOTOMY ENTERPRISE LIMITED
+Gi1/0/35                       up             up       Access_Points
+Gi1/0/36                       up             up       AP_KHUB_CORE_g1/0/36
+Te1/1/3                        up             up       === KAREN_HUB_CORE_SWITCH === [Ten 1/2/3]
+
+>>>>>>>>> End of Output KAREN_HUB-ASW-UG03 <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Karuri Hill Top Switch_Nairobi West <<<<<<<<<
+Vl602                          up             up       IPRAN_INTERNET
+Vl613                          up             up       MGT_WIMAX
+Fa0/3                          up             up       WIMAX 16e PORT SEC_1
+Fa0/4                          up             up       WIMAX 16e PORT SEC_2
+Fa0/5                          up             up       WIMAX 16e PORT SEC_3
+Fa0/6                          up             up       95024019_KIAMBUB  COUNTY-KIAMBAA SUB COUNTY
+Fa0/7                          up             up       KIAMBU COUNTY KARURI SUB-COUNTY HOSPITAL
+Fa0/18                         up             up       QNQ_TUNNEL
+Fa0/19                         up             up       QNQ_IPRAN_VLANS
+Fa0/21                         up             up       CONNECTION_IPRAN_ATN
+
+>>>>>>>>> End of Output Karuri Hill Top Switch_Nairobi West <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Kavati Switch_EAST <<<<<<<<<
+Vl100                          up             down     Wimax Remote Management
+Vl102                          up             down     
+Vl601                          up             up       INTERNET_CARRIER
+Vl612                          up             up       MGT_Bespoke
+Vl613                          up             up       MGT_WIMAX
+Vl616                          up             up       16e Bearer Test
+Vl617                          up             up       
+Vl3119                         up             down     
+Fa0/7                          up             up       WIMAX 16e PORT SEC_2
+Fa0/8                          up             up       New WIMAX 16e PORT SEC_1
+Fa0/19                         up             up       QnQ_Vlan_Stripper
+Fa0/20                         up             up       QnQ_Tunnel
+Fa0/21                         up             up       IPRAN_CONNECTION
+
+>>>>>>>>> End of Output Kavati Switch_EAST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Keiyo Road Switch_Nairobi West <<<<<<<<<
+Vl602                          up             up       IPRAN_INTERNET
+Vl613                          up             up       MGT_WIMAX
+Fa0/3                          up             up       WIMAX_16E_SECTOR_1
+Fa0/4                          up             up       WIMAX_16E_SECTOR_2
+Fa0/5                          up             up       WIMAX_16E_SECTOR_3
+Fa0/19                         up             up       QNQ_IPRAN_VLANS
+Fa0/20                         up             up       QNQ_TUNNEL
+Fa0/21                         up             up       CONNECTION_IPRAN_ATN
+
+>>>>>>>>> End of Output Keiyo Road Switch_Nairobi West <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Kericho Majengo Switch_WEST <<<<<<<<<
+Vl40                           up             down     
+Vl100                          up             down     
+Vl102                          up             down     
+Vl200                          up             down     
+Vl411                          up             down     
+Vl602                          up             up       NEW_INTERNET_CARRIER
+Vl613                          up             up       MGT_WIMAX
+Vl617                          up             up       
+Vl706                          up             up       95034109-AAR  INSURANCE LTD-KERICHO
+Vl710                          up             down     95029486-WILTEL COMPANY 
+Vl778                          up             down     95019225-ISINYA ROSES - PORINI  Bespoke
+Vl810                          up             up       95034517-CMC_DI_RAVENN
+Vl919                          up             up       95041494-KTDA_OLENGURUONE INTERNET
+Vl1095                         up             down     
+Vl2930                         up             down     
+Vl3242                         up             down     
+Vl3249                         up             down     
+Vl3504                         up             up       
+Fa0/4                          up             up       KURESOI_Olenguruoni
+Fa0/5                          up             up       95023582-CHASE  BANK KENYA LTD-KERICHO PRIMARY
+Fa0/6                          up             up       
+Fa0/7                          up             up       94000100 : kericho kyc eadc
+Fa0/11                         up             up       WIMAX 16e PORT SEC_1
+Fa0/12                         up             up       95045983-IMARISHA SACCO
+Fa0/13                         up             up       WIMAX 16e PORT SEC_3
+Fa0/14                         up             up       WIMAX 16e PORT SEC_4
+Fa0/15                         up             up       NBK KERICHO
+Fa0/16                         up             up       5034109-AAR  INSURANCE LTD-KERICHO
+Fa0/18                         up             up       QNQ_IPRAN_VLANS
+Fa0/19                         up             up       QNQ_TUNNE
+Gi0/1                          up             up       CONNECTION_IPRAN_ATN
+Lo0                            up             up       
+
+>>>>>>>>> End of Output Kericho Majengo Switch_WEST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Kericho North Switch_WEST <<<<<<<<<
+Vl12                           up             down     
+Vl100                          up             down     
+Vl602                          up             up       NEW_INTERNET_CARRIER
+Vl604                          up             down     
+Vl613                          up             up       MGT_WIMAX
+Vl616                          up             up       
+Vl617                          up             up       
+Vl750                          up             up       95036471_BT_COMMUNICATIONS_UNILEVER_KERICHO
+Vl756                          up             up       95041497-KTDA-TOROR INTERNET
+Vl4049                         up             down     
+Fa0/2                          up             up       KTDA_TOROR
+Fa0/4                          up             up       WIMAX 16e PORT SEC_1 _TEST PORT
+Fa0/5                          up             up       95036471-BT COMMUNICATIONS-UNILEVER KERICHO
+Fa0/6                          up             up       95043130 : BT COMMUNICATIONS-KERICHO
+Fa0/19                         up             up       IPRAN_QNQ_VLAN
+Fa0/20                         up             up       IPRAN_QNQ_TUNNEL
+Fa0/21                         up             up       TO_IPRAN_ATN
+Lo0                            up             up       
+
+>>>>>>>>> End of Output Kericho North Switch_WEST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Keroka Switch_WEST <<<<<<<<<
+Vl612                          up             up       
+Vl613                          up             up       MGT
+Vl725                          up             up       
+Fa0/7                          up             up       CERAGON HUB KEROKA
+Fa0/24                         up             up       LINK_TO_RITONGO 
+
+>>>>>>>>> End of Output Keroka Switch_WEST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Kerugoya Kaitheri Switch_EAST <<<<<<<<<
+Vl100                          up             down     
+Vl601                          up             up       
+Vl613                          up             up       
+Vl714                          up             up       95001331 BINGWA SACCO HQ
+Vl715                          up             down     Christian Community SNKE
+Vl716                          up             up       95003444 Karaba Charity
+Vl717                          up             down     StarWood International Ltd
+Vl718                          up             down     Silver Cyber Cafe
+Vl719                          up             down     MOE Kianguenyi Secondary School 
+Vl720                          up             down     MOE Gatunguru Secondary School 
+Vl724                          up             down     Safaricom  Retail Kerugoya
+Vl725                          up             up       95014203 Eliud Gitari Munene-Business Plus
+Vl727                          up             down     95015749-Kirinyaga_County_Government-Kerugoya
+Vl729                          up             up       95017844 Munen Enterprises
+Vl730                          up             up       95018459-MARTIN NJAGI NJOGU
+Vl731                          up             up       95018523-KARIMI TABITHA WANJIRA 
+Vl737                          up             up       95021553-FORTUNE_SACCO_LTD
+Vl743                          up             down     95021583-CHARLES-MWAURA-NGAU
+Vl744                          up             up       95021386-MWENDIWEGA-SACCO-LTD
+Vl745                          up             up       95022252-Peter_Njine_Wachira
+Vl747                          up             up       95021886-J.K_KIBICHO&CO_ADVOCATES
+Vl749                          up             up       95022945-ECLIPSE IT BUSINESS SOLUTIONS
+Vl750                          up             down     95022645-ECLIPSE_IT_BUSINESS_SOLUTIONS
+Vl754                          up             up       95032653-KUKENA SACCO
+Vl755                          up             up       95032810-MAGEE WA MAGEE AND COMPANY
+Vl3790                         up             down     
+Fa0/2                          up             up       Bespoke_To_Equity_Kerugoya
+Fa0/5                          up             up       KERUGOYA KAITHERI CERAGON
+Fa0/7                          up             up       WIMAX 16e PORT SEC_1
+Fa0/11                         up             up       95041583 - JIANGXI WATER HYDROPOWER CONSTRUCTION KENYA LTD
+Fa0/13                         up             up       KENET-KIRINYAGA UNIVERSITY
+Fa0/16                         up             up       VLAN stripper
+Fa0/17                         up             up       QinQ
+Fa0/19                         up             up       EQUITY BANK KUTUS
+Fa0/21                         up             up       KTDA Thumaita
+Fa0/22                         up             up       KTDA kangaita
+Fa0/24                         up             up       Link to IPRAN ATN-G0/2/25
+Lo0                            up             up       
+
+>>>>>>>>> End of Output Kerugoya Kaitheri Switch_EAST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Kiambu Switch_NAIROBI WEST <<<<<<<<<
+Vl602                          up             up       INTERNET
+Vl613                          up             up       MGT_WIMAX
+Vl1033                         up             up       
+Vl2370                         up             up       
+Fa0/2                          up             up       MINISTRYOFLANDSKIAMBU
+Fa0/4                          up             up       WIMAX 16e PORT SEC_1
+Fa0/5                          up             up       WIMAX 16e PORT SEC_2
+Fa0/6                          up             up       WIMAX 16e PORT SEC_3
+Fa0/7                          up             up       95024306-KIAMBU COUNTY KIAMBU COMMUNITY
+Fa0/8                          up             up       95049425-NAIROBI HOSPITAL KIAMBU MALL
+Fa0/19                         up             up       QNQ_IPRAN_VLANS
+Fa0/20                         up             up       QNQ_TUNNEL
+Fa0/21                         up             up       CONNECTION_IPRAN_ATN
+Lo0                            up             up       
+
+>>>>>>>>> End of Output Kiambu Switch_NAIROBI WEST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Kianjiru Hilltop Switch_EAST <<<<<<<<<
+Vl314                          up             down     Equity dadaab
+Vl613                          up             up       
+Vl617                          up             down     
+Vl742                          up             up       95019588-ACTION AID AFRICA-MAKIMA MICROWAVE
+Vl745                          up             down     
+Vl746                          up             up       95023819-SUPERIOR HIGHLAND DAIRIES-MICROWAVE
+Vl750                          up             down     
+Vl1965                         up             down     
+Vl3000                         up             down     
+Vl3719                         up             down     
+Fa0/7                          up             up       95032243-KANJIRU RANGE FOODS LIMITED
+Fa0/8                          up             up       95036342 : KWFT KIVAA MICROWAVE
+Fa0/9                          up             up       Embucountymbeeresubcounty
+Fa0/10                         up             up       BIMA SACCO KIRITINI
+Fa0/14                         up             up       95019588-ACTION AID AFRICA-MAKIMA
+Fa0/17                         up             up       Jamii Bora Bank Kiritiri
+Gi0/1                          up             up       ==TO KIANJIRU HILLTOP ASR 903 Gi0/1/1==
+Gi0/2                          up             up       Connection to Ericsson MW to Mwingi/Kagio/Kimbimbi
+Lo0                            up             up       
+
+>>>>>>>>> End of Output Kianjiru Hilltop Switch_EAST <<<<<<<<<
