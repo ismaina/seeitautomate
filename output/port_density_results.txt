@@ -1,0 +1,88 @@
+
+
+>>>>>>>>> Begin of Output 12315_NW_NM1290-Amani_Road_SWITCH <<<<<<<<<
+                                           ^
+% Invalid input detected at '^' marker.
+
+
+>>>>>>>>> End of Output 12315_NW_NM1290-Amani_Road_SWITCH <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output AA Kenya_Switch_NRB <<<<<<<<<
+                                ^
+% Invalid input detected at '^' marker.
+
+
+>>>>>>>>> End of Output AA Kenya_Switch_NRB <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Athi River South Switch_EAST <<<<<<<<<
+                                      ^
+% Invalid input detected at '^' marker.
+
+
+>>>>>>>>> End of Output Athi River South Switch_EAST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Athi River Switch_EAST <<<<<<<<<
+                               ^
+% Invalid input detected at '^' marker.
+
+
+>>>>>>>>> End of Output Athi River Switch_EAST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output AVP Switch_NRB <<<<<<<<<
+                                ^
+% Invalid input detected at '^' marker.
+
+
+>>>>>>>>> End of Output AVP Switch_NRB <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Awendo Switch_WEST <<<<<<<<<
+                       ^
+% Invalid input detected at '^' marker.
+
+
+>>>>>>>>> End of Output Awendo Switch_WEST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output AWENDO.safaricom.net <<<<<<<<<
+                       ^
+% Invalid input detected at '^' marker.
+
+
+>>>>>>>>> End of Output AWENDO.safaricom.net <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Barclays Plaza Switch II_NRB <<<<<<<<<
+                                ^
+% Invalid input detected at '^' marker.
+
+
+>>>>>>>>> End of Output Barclays Plaza Switch II_NRB <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Barclays Plaza UC Switch_NRB <<<<<<<<<
+                                   ^
+% Invalid input detected at '^' marker.
+
+
+>>>>>>>>> End of Output Barclays Plaza UC Switch_NRB <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Bella Plaza Switch_EAST <<<<<<<<<
+                                ^
+% Invalid input detected at '^' marker.
+
+
+>>>>>>>>> End of Output Bella Plaza Switch_EAST <<<<<<<<<
+
+
+>>>>>>>>> Begin of Output Berguret Switch_EAST <<<<<<<<<
+                              ^
+% Invalid input detected at '^' marker.
+
+
+>>>>>>>>> End of Output Berguret Switch_EAST <<<<<<<<<

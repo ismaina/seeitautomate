@@ -1,0 +1,4 @@
+snmp-server community CISCO-CNC RO SNMP_filter
+snmp-server host 192.168.132.71 version 2c CISCO-CNC
+ip access-list standard SNMP_filter
+permit 192.168.132.0 0.0.0.255
