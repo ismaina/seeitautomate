@@ -6,7 +6,7 @@ chardet==3.0.4
 colorama==0.4.1
 cryptography==2.4.2
 dataclasses==0.6
-Django==2.1.5
+Django==2.1.11
 future==0.17.1
 idna==2.8
 Jinja2==2.10
